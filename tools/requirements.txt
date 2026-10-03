@@ -1,0 +1,7 @@
+# Build tools for the 3-sinf materials (Python 3.10+)
+reportlab>=4.0        # PDF
+python-docx>=1.1      # Word
+cairosvg>=2.7         # clocks and preposition pictures (needs the cairo system library)
+pillow>=10.0
+lxml>=5.0             # used by python-docx and the OOXML test
+pytest>=8.0
