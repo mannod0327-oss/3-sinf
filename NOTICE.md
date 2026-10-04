@@ -6,7 +6,7 @@ Dars rejalari, ish varaqlari, testlar, kalitlar, o'yinlar, lug'at ro'yxatlari va
 
 | Darslik | Nashriyot | Qanday foydalanilgan |
 |---|---|---|
-| *Guess What!* Level 3 (Susannah Reed, Lesley Koustaff, Kay Bentley) | Cambridge University Press | Faqat unit nomlari, mavzu va grammatika maqsadlari (rasmiy mundarija) asosida mavzulashtirilgan |
+| *Guess What!* Level 3 — British English (Susannah Reed, Lesley Koustaff, Kay Bentley; ISBN 978-1-107-52801-7) va American English nashri | Cambridge University Press | Faqat unit nomlari, mavzu va grammatika maqsadlari (rasmiy mundarija) asosida mavzulashtirilgan |
 | *Round-Up 3* (Virginia Evans) | Pearson / Longman | Faqat bo'limlar tartibi va mavzulari (rasmiy mundarija) asosida |
 | *Destination A1* (*Destination A1 Plus*, 2017, ISBN 9781380015464) | Macmillan Education | Faqat bo'limlar tartibi va mavzulari (rasmiy mundarija) asosida |
 

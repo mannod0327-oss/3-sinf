@@ -12,11 +12,31 @@ Topshiriq: "faqat 3-sinfga tegishlilarini ol". Quyida har bir fayl bo'yicha qaro
 | `…Grade 3 Guess What TB.pdf` | 426 MB | Teacher's Book | Xuddi shunday. Dars rejalari original yozilgan, TB matni ko'chirilmagan |
 | `…Grade 3 Guess What WB.pdf` | 181 MB | Workbook | Xuddi shunday. Ish varaqlari original |
 | `…Grade 3 Guess What Flashcards.pdf` | 8,6 MB | Rasmli kartochkalar | **O'qildi** (matnli qatlami bor) — so'z ro'yxatini tekshirishda ishlatildi. Kartochkalar o'zi qo'yilmagan; o'rniga `games/flashcards.pdf` original kartochkalar tayyorlandi |
-| `…Grade 3 Guess What Word Cards.zip` | 0,5 MB | So'z kartalari | Arxiv ochilmadi; o'rniga original so'z kartalari tayyorlandi |
-| `…Grade 3 Guess What CD.zip` | 88 MB | Audio | Ishlatilmadi; tinglash mashqlarida o'qituvchi matnni o'zi o'qiydi (kalitda matn bor) |
-| `…Grade 3 Guess What Video.zip` | 238 MB | Video | Ishlatilmadi (darsda to'g'ridan-to'g'ri Drive'dan foydalaning) |
-| `EFL_Grade03_Test-Generator_Software.zip` | 474 MB | 3-sinf test generatori (dastur) | Ochilmadi (Windows dasturi bo'lishi mumkin); o'rniga original chorak testlari tayyorlandi |
-| `3-sinf nazorat ishlari.zip` | 334 MB | O'zbek tilidagi nazorat ishlari | Ochilmadi — **o'zingiz ko'rib chiqing**: maktabingiz rasmiy nazorat formatiga o'zgartirish kerak bo'lsa, [guess-what/tests/](../guess-what/tests/README.md) dagi ball va baho chegaralarini moslang |
+| `…Grade 3 Guess What Word Cards.zip` | 0,5 MB | 9 ta PDF: Welcome + 1–8-unit so'z kartalari (© CUP 2016) | **Ichi ko'rildi.** Mening unit lug'atlarim shu kartalar bilan solishtirildi: Welcome, 3, 5, 7-unitlar aynan bir xil; qolganlarida farq faqat ikki variantli yozuvlarda (masalan, `chips / fries`, `sea / ocean`). Kartalarning o'zi qo'yilmagan; o'rniga original so'z kartalari tayyorlandi |
+| `…Grade 3 Guess What CD.zip` | 88 MB | Audio: 9 ichki arxiv (Introduction + 1–8-unit) | Ishlatilmadi; mening tinglash mashqlarimda o'qituvchi matnni o'zi o'qiydi (kalitda matn bor) |
+| `…Grade 3 Guess What Video.zip` | 238 MB | 9 ta MP4 (Unit 0–8) | Ishlatilmadi (darsda to'g'ridan-to'g'ri Drive'dan foydalaning) |
+| `EFL_Grade03_Test-Generator_Software.zip` | 474 MB | **Guess What! American Edition 3** test generatori (`TGGUESSWHAT3AE`): Windows / macOS / Linux ishga tushirgichlari, 268 mp3, 371 rasm va quyidagi 52 ta tayyor test arxivi | **Ichi ko'rildi**, dastur ishga tushirilmadi. Test generatori orqali o'z testingizni tuzishingiz mumkin; o'rniga original chorak testlari ham tayyorlandi |
+| `3-sinf nazorat ishlari.zip` | 334 MB | **Nashriyotning tayyor test to'plami** *Guess What! American Edition 3* (nomiga qaramay, o'zbekcha maktab ishlari emas): 52 ta ichki arxiv, ularda mp3 audio hamda javobli / javobsiz DOCX va PDF (© CUP 2021, PHOTOCOPIABLE) | **Ichi ko'rildi.** Tarkibi pastda. Repozitoriyga qo'yilmagan (mualliflik huquqi); mening chorak testlarimga qo'shimcha sifatida ishlating |
+
+## `3-sinf nazorat ishlari.zip` ichida nima bor
+
+Fayl nomlari (`GW3-…`) va ichki arxivlar ro'yxatidan:
+
+| Guruh | Soni | Mazmuni |
+|---|---|---|
+| `GW3-UT-U0…U8` — **Unit tests** | 36 | Welcome va 1–8-unit uchun har biriga 4 tadan: **Standard Test 1 / 2** (`S1`, `S2`) va **Extension Test 1 / 2** (`E1`, `E2`); har birida 2 ta mp3 (tinglash), javobli va javobsiz DOCX + PDF; odatda 30 ball (tinglash 15 + o'qish / yozish 15; ayrim unitlarda bir ball farq qiladi) |
+| `GW3-RT-…` — **Review tests** | 4 | 1–2, 3–4, 5–6, 7–8-unitlar uchun takrorlash testlari (mp3 + DOCX + PDF) |
+| `GW3-ST-LTN / RW / SPK 1–3` — **Skills tests** | 9 | Tinglash, o'qish-yozish va og'zaki nutq testlari, 1–3 variant |
+| `GW3-EOL-LTN / RW / SPK` — **End-of-level** | 3 | Yil yakuniy testi: tinglash, o'qish-yozish, og'zaki nutq |
+
+Qanday ishlatish: har bir unit oxirida rasmiy **Unit test** (audio bilan, javoblari bor), chorak oxirida esa mening [chorak testim](../guess-what/tests/README.md) yoki rasmiy **Review test**. Yil oxirida **End-of-level**. Mening testlarim audiosiz, o'qituvchi o'qiydi; rasmiy testlarda tayyor audio bor.
+
+## Nashr: American English
+
+Drive'dagi test to'plami, test generatori ham, Word Cards ham **American Edition** (lug'at: *fries, ocean, cafeteria, gym, soccer, vacation, mom, favorite, color, math*). Shuning uchun:
+
+- **Unit mavzulari mos keladi.** Rasmiy testlardan 1, 2, 5 va 8-unit mavzulari tekshirildi (bog'dagi hayvonlar va egalik olmoshlari; maktab joylari va hozirgi davom fe'li; *like / enjoy + -ing*; *Whose … ? hers / theirs* va plyaj lug'ati) — mening `guess-what/` paketimdagi unitlar bilan bir xil.
+- **Imlo mos kelmaydi.** `guess-what/` paketi britaniya imlosida yozilgan (*colour, favourite, mum, football, holiday, maths, chips*), sizning nashringiz esa amerikacha (*color, favorite, mom, soccer, vacation, math, fries*). Bolalar darslikda bir imloni, mening varaqlarimda boshqasini ko'rishadi. Round-Up 3 va Destination A1 kitoblari britaniya nashrlari, ularda bu muammo yo'q.
 
 ## 3-sinfga tegishli emas (3 ta fayl) — ishlatilmadi
 
