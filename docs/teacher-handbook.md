@@ -81,14 +81,18 @@ Dars rejalari ichida har bir mavzuga alohida maslahat bor; eng ko'p uchraydigan 
 | So'z tartibi: `*Every day I go school.` | Fe'l gap oxirida | Jumla kartochkalarini tartiblash (*Unscramble* mashqlari shuni mashq qiladi) |
 | Imlo: o'qilishi ≠ yozilishi | O'zbek imlosi fonetik | Harakatda yozish: havoda yozish, kumda yozish; *Say it!* tovush juftlari |
 
-## 8. Moslashtirish
+## 8. Britaniya yoki amerikacha?
+
+Guess What! materiallari **amerikacha** nashrga mos yozilgan (Drive'dagi Word Cards va rasmiy testlar shunday). Round-Up 3 va Destination A1 kitoblari britaniya nashrlari, shuning uchun ularda *colour, favourite, football, maths, have got* uchraydi. Bir sinfda ikkalasini ishlatsangiz, bolalarga bir marta ko'rsating: *color — colour*, *mom — mum*, *soccer — football*, *math — maths*, *Do you have …? — Have you got …?* Imtihon yoki chorak testida nashringizdagi imloni qabul qiling, ikkinchisini xato deb hisoblamang.
+
+## 9. Moslashtirish
 
 - **Kuchsiz guruh:** faqat Worksheet A + o'yinlar; yozma vazifada *Help box* (gap shablonlari)dan foydalaning; kalitni bola o'zi tekshirsin.
 - **Kuchli guruh:** *Extension* g'oyalari dars rejalarida; Worksheet B ni tezroq tugatganlarga mini-loyiha (poster, kichik hikoya).
 - **Katta sinf (30+):** Bingo / Memory — guruhlarda; yozma tekshiruvni juftlikda kesishib tekshirish bilan almashtiring.
 - **Uy vazifasi:** har darsda 5–10 daqiqalik (lug'at yodlash yoki rasm chizish + 2–3 gap). Ota-onalarga kartochkalarni uyda ishlatish uchun bering.
 
-## 9. Muammolar bo'lsa
+## 10. Muammolar bo'lsa
 
 - PDF'da rasm ko'rinmasa — PDF'ni boshqa dasturda (Adobe Reader, brauzer) oching.
 - Word faylda format siljisa — PDF versiyasi asosiy; Word'dan faqat matnni olib, o'z shabloningizga qo'ying.

@@ -36,7 +36,13 @@ Qanday ishlatish: har bir unit oxirida rasmiy **Unit test** (audio bilan, javobl
 Drive'dagi test to'plami, test generatori ham, Word Cards ham **American Edition** (lug'at: *fries, ocean, cafeteria, gym, soccer, vacation, mom, favorite, color, math*). Shuning uchun:
 
 - **Unit mavzulari mos keladi.** Rasmiy testlardan 1, 2, 5 va 8-unit mavzulari tekshirildi (bog'dagi hayvonlar va egalik olmoshlari; maktab joylari va hozirgi davom fe'li; *like / enjoy + -ing*; *Whose … ? hers / theirs* va plyaj lug'ati) — mening `guess-what/` paketimdagi unitlar bilan bir xil.
-- **Imlo mos kelmaydi.** `guess-what/` paketi britaniya imlosida yozilgan (*colour, favourite, mum, football, holiday, maths, chips*), sizning nashringiz esa amerikacha (*color, favorite, mom, soccer, vacation, math, fries*). Bolalar darslikda bir imloni, mening varaqlarimda boshqasini ko'rishadi. Round-Up 3 va Destination A1 kitoblari britaniya nashrlari, ularda bu muammo yo'q.
+- **`guess-what/` paketi amerikachaga o'tkazildi** (2026-10-05). Nima o'zgardi:
+  - imlo va so'zlar: *color, favorite, mom, soccer, vacation, math, fries, ocean, movies, ping-pong, turtle, trash, apartment, fall*;
+  - maktab va kun tartibi so'zlari rasmiy Word Cards bo'yicha: *cafeteria, science lab, brush your teeth, take a shower, make movies, play ping-pong*;
+  - **grammatika:** Unit 3 va Welcome'dagi britaniya *have got* o'rniga amerikacha *have*: *Do we have science on Tuesday? — Yes, we do. / No, we don't.*, *What club does she have? — She has swimming club.* (chorak testi va og'zaki nazorat ham);
+  - teacher-facing atamalar: *student* (pupil emas), *Workbook* (Activity Book emas), *schedule* (timetable emas), *P.E.*, *Mrs. / Mr.*, *review* (revision emas), *check* (tick emas); talaffuz izohlari amerikacha (*/oʊ/*, */ɑrnt/*, */tʃer/*).
+- **Hali tekshirilmagan:** *Story value, Talk time, Say it!, CLIL* qatorlari britaniya nashri mundarijasidan olingan; amerikacha nashrda boshqacha bo'lishi mumkin (kurs xaritasida ham shunday eslatilgan). Student's Book bilan solishtiring.
+- Round-Up 3 va Destination A1 britaniya kitoblari, ularning materiallari britaniya imlosida qoldi.
 
 ## 3-sinfga tegishli emas (3 ta fayl) — ishlatilmadi
 
