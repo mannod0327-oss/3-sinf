@@ -13,7 +13,7 @@ from docx.shared import Mm, Pt, RGBColor
 from . import icons
 from .markup import tokenize
 from .model import (
-    Block, Box, Bullets, Doc, Group, Heading, Lines, PageBreak, Para, Rule, Spacer, Table,
+    Block, Box, Bullets, Doc, Group, Heading, Lines, PageBreak, Para, Rule, Spacer, Table, student,
 )
 
 FONT = "Arial"
@@ -247,7 +247,7 @@ def render_docx(doc: Doc, path: str | Path) -> Path:
         p.paragraph_format.space_after = Pt(2)
     if doc.key:
         p = d.add_paragraph()
-        _runs(p, "TEACHER'S KEY — do not print for pupils", size=10, bold=True, color=KEYRED)
+        _runs(p, f"TEACHER'S KEY — do not print for {student(plural=True)}", size=10, bold=True, color=KEYRED)
     _bottom_border(d.add_paragraph())
     if doc.name_line:
         p = d.add_paragraph()

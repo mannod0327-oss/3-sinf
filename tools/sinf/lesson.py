@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
-from .model import Block, Box, Bullets, Doc, Heading, Para, Spacer, Table
+from .model import Block, Box, Bullets, Doc, Heading, Para, Spacer, Table, student
 
 INTERACTION = {
     "T-Ss": "teacher – whole class", "Ss-Ss": "pairs / groups", "S": "individual",
@@ -52,7 +52,7 @@ class Lesson:
     def blocks(self, number: int) -> list[Block]:
         facts = [
             ["**Focus**", self.focus],
-            ["**Aims**  (by the end of the lesson pupils can…)", "\n".join(f"• {a}" for a in self.aims)],
+            [f"**Aims**  (by the end of the lesson {student(plural=True)} can…)", "\n".join(f"• {a}" for a in self.aims)],
             ["**Key language**", "\n".join(f"• {a}" for a in self.language)],
             ["**Materials**", "\n".join(f"• {a}" for a in self.materials)],
             ["**Time**", f"{self.minutes} minutes"],

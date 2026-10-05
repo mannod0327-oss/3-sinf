@@ -13,18 +13,17 @@
 | 🎨 | **Art room** | tasviriy san'at xonasi | U2 |
 | 🏖 | **August** | avgust | Welcome |
 | 🍌 | **bananas** | bananlar | U7 |
+| 🪥 | **brush your teeth** | tishni tozalamoq | U4 |
 | 🍔 | **burger** | burger | U8 |
 | 🦋 | **butterfly** | kapalak | U1 |
+| 🍽 | **cafeteria** | oshxona, ovqatlanish zali | U2 |
 | 🥕 | **carrots** | sabzilar | U7 |
 | 🐛 | **caterpillar** | kapalak qurti | U1 |
 | ♟ | **chess club** | shaxmat to'garagi | U3 |
-| 🍟 | **chips / fries** | kartoshka fri | U8 |
 | 🏫 | **classroom** | sinf xonasi | U2 |
-| 🪥 | **clean my teeth / brush my teeth** | tishimni tozalamoq | U4 |
 | 🥥 | **coconuts** | kokos yong'oqlari | U7 |
 | 🥒 | **cucumbers** | bodringlar | U7 |
 | 🎁 | **December** | dekabr | Welcome |
-| 🍽 | **dining hall / cafeteria** | oshxona, ovqatlanish zali | U2 |
 | 🤸 | **do gymnastics** | gimnastika bilan shug'ullanmoq | U6 |
 | 📝 | **do homework** | uy vazifasini bajarmoq | U5 |
 | 🥋 | **do karate** | karate bilan shug'ullanmoq | U6 |
@@ -37,6 +36,7 @@
 | 💨 | **February** | fevral | Welcome |
 | 🌸 | **flower** | gul | U1 |
 | ❤ | **Friday** | juma | U3 |
+| 🍟 | **fries** | kartoshka fri | U8 |
 | 👕 | **get dressed** | kiyinmoq | U4 |
 | ⏰ | **get up** | uyg'onmoq, o'rnidan turmoq | U4 |
 | 🫙 | **glass** | shisha | U2 |
@@ -51,7 +51,6 @@
 | 🕒 | **half past seven** | yetti yarim | U4 |
 | 🕒 | **half past three** | uch yarim | U4 |
 | 😠 | **hate** | yomon ko'rmoq | U5 |
-| 🚿 | **have a shower / take a shower** | cho'milmoq, dush qabul qilmoq | U4 |
 | 🍳 | **have breakfast** | nonushta qilmoq | U4 |
 | 🍗 | **have dinner** | kechki ovqat yemoq | U4 |
 | 🍲 | **have lunch** | tushlik qilmoq | U4 |
@@ -74,11 +73,11 @@
 | ❤ | **love** | juda yaxshi ko'rmoq | U5 |
 | 👦 | **Lucas** | Lukas (o'g'il bola) | Welcome |
 | 🎂 | **make a cake** | tort (kek) tayyorlamoq | U5 |
-| 🎬 | **make films / make movies** | kino (film) suratga olmoq | U6 |
 | 🧱 | **make models** | maketlar yasamoq | U6 |
+| 🎬 | **make movies** | kino (movie) suratga olmoq | U6 |
 | 🥭 | **mangoes** | mangolar | U7 |
 | 🌱 | **March** | mart | Welcome |
-| 🔢 | **Maths** | matematika | U3 |
+| 🔢 | **Math** | matematika | U3 |
 | 👦 | **Max** | Maks (o'g'il bola) | Welcome |
 | 🌸 | **May** | may | Welcome |
 | 🥫 | **metal** | metall | U2 |
@@ -87,19 +86,20 @@
 | 🎵 | **Music** | musiqa | U3 |
 | 🎵 | **Music room** | musiqa xonasi | U2 |
 | ☁ | **November** | noyabr | Welcome |
+| 🌊 | **ocean** | okean | U8 |
 | 🍃 | **October** | oktabr | Welcome |
 | 📅 | **on Saturdays** | shanba kunlari | U6 |
 | 🧅 | **onions** | piyozlar | U7 |
 |  | **ours** | bizniki | U8 |
+| 🏃 | **P.E.** | jismoniy tarbiya | U3 |
 | 🎨 | **painting** | rasm chizmoqda | U2 |
 | 📄 | **paper** | qog'oz | U2 |
-| 🏃 | **PE** | jismoniy tarbiya | U3 |
 | 🍐 | **pears** | noklar | U7 |
 | 🍍 | **pineapples** | ananaslar | U7 |
 | 🧴 | **plastic** | plastmassa | U2 |
 | 🏸 | **play badminton** | badminton o'ynamoq | U6 |
 | 🕹 | **play on the computer** | kompyuterda o'ynamoq | U5 |
-| 🏓 | **play table tennis / Ping-Pong** | stol tennisi o'ynamoq | U6 |
+| 🏓 | **play ping-pong** | stol tennisi o'ynamoq | U6 |
 | 🎸 | **play the guitar** | gitara chalmoq | U6 |
 | 🎹 | **play the piano** | pianino chalmoq | U6 |
 | 🪈 | **play the recorder** | fleyta chalmoq | U6 |
@@ -115,8 +115,7 @@
 | 🏖 | **sand** | qum | U8 |
 | 🪐 | **Saturday** | shanba | U3 |
 | 🔬 | **Science** | tabiiy fan | U3 |
-| 🔬 | **Science room / lab** | fan (tabiiy fanlar) xonasi | U2 |
-| 🌊 | **sea / ocean** | dengiz, okean | U8 |
+| 🔬 | **Science lab** | fan (tabiiy fanlar) xonasi | U2 |
 | 🎒 | **September** | sentabr | Welcome |
 | 🕒 | **seven o'clock** | soat yetti (aniq) | U4 |
 | 🐚 | **shell** | chig'anoq | U8 |
@@ -130,15 +129,16 @@
 | 🕶 | **sunglasses** | quyoshdan saqlovchi ko'zoynak | U8 |
 | 🏊 | **swimming club** | suzish to'garagi | U3 |
 | 🩱 | **swimsuit** | cho'milish kiyimi | U8 |
+| 🚿 | **take a shower** | cho'milmoq, dush qabul qilmoq | U4 |
 |  | **the purple one** | binafsha rangdagisi | U8 |
 |  | **theirs** | ularniki | U8 |
 | ⚡ | **Thursday** | payshanba | U3 |
 | 👦 | **Tom** | Tom (o'g'il bola) | Welcome |
 | 🍅 | **tomatoes** | pomidorlar | U7 |
-| 🐢 | **tortoise / turtle** | toshbaqa | U1 |
 |  | **towel** | sochiq | U8 |
 | 🌳 | **tree** | daraxt | U1 |
 | 🔥 | **Tuesday** | seshanba | U3 |
+| 🐢 | **turtle** | toshbaqa | U1 |
 | 🕒 | **twelve o'clock** | soat o'n ikki (aniq) | U4 |
 | 🚗 | **wash the car** | mashinani yuvmoq | U5 |
 | 📺 | **watch TV** | televizor ko'rmoq | U5 |

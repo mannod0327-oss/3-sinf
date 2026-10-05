@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT / "content"))
 
+from sinf import model  # noqa: E402
 from sinf.unit import build_unit  # noqa: E402
 
 PACKS = {
@@ -47,6 +48,8 @@ def main(argv: list[str]) -> int:
         if module is None:
             print(f"[skip] {name}: no content yet")
             continue
+        model.WORDS.clear()
+        model.WORDS.update(getattr(module, "WORDS", {"student": "pupil"}))   # British / American wording
         pack_root = ROOT / name
         for spec in module.UNITS:
             if only_unit is not None and spec.number != only_unit:

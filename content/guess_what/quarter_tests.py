@@ -53,18 +53,18 @@ QUARTERS.append(dict(
                 ("Lily is painting in the Art room.", True), ("Anna is reading a book.", True),
                 ("Tom and Max are in the library.", False)],
                 script=["Anna is in the library. She's reading a book.",
-                        "Tom and Max are on the sports field. They're playing football.",
+                        "Tom and Max are on the sports field. They're playing soccer.",
                         "Lily is in the Art room. She's painting a picture."])]),
         Section("Part 2 · Vocabulary", [
             PicLabel("Look and write the words.", items=[
-                ("caterpillar", "caterpillar"), ("tortoise", "tortoise"), ("library", "library"),
+                ("caterpillar", "caterpillar"), ("turtle", "turtle"), ("library", "library"),
                 ("sports field", "sports field")], bank=False, cols=4, size=36),
             Fill("Write the missing month.", items=[
                 "The month after May is {June}.", "The month before December is {November}.",
                 "The month after July is {August}.", "The month before March is {February}."])]),
         Section("Part 3 · Grammar", [
             Circle("Circle the correct word.", items=[
-                "Anna has a tortoise. {*Her|His} tortoise is old.",
+                "Anna has a turtle. {*Her|His} turtle is old.",
                 "We have a cat. {*Our|Their} cat is black.",
                 "{What's|*What are} those? They're butterflies.",
                 "The children are {in|*on} the playground.",
@@ -102,13 +102,13 @@ QUARTERS.append(dict(
                 script=["Hello! I'm Dilnoza. I get up at seven o'clock. I go to school at half past eight.",
                         "I have lunch at twelve o'clock. I go home at three o'clock. I go to bed at nine o'clock."]),
             TrueFalse("Listen and write T (true) or F (false).", items=[
-                ("They've got Science on Tuesday.", True), ("They've got PE on Wednesday.", False),
-                ("They've got Music on Wednesday.", True), ("Lily has got swimming club on Friday.", True),
-                ("They've got PE on Thursday.", True)],
-                script=["Anna: Have we got Science on Tuesday? — Tom: Yes, we have.",
-                        "Anna: Have we got PE on Wednesday? — Tom: No, we haven't. We've got Music on Wednesday and "
-                        "PE on Thursday.",
-                        "Anna: Has Lily got swimming club? — Tom: Yes, she has. She's got swimming club on Friday."])]),
+                ("They have science on Tuesday.", True), ("They have P.E. on Wednesday.", False),
+                ("They have music on Wednesday.", True), ("Lily has swimming club on Friday.", True),
+                ("They have P.E. on Thursday.", True)],
+                script=["Anna: Do we have science on Tuesday? — Tom: Yes, we do.",
+                        "Anna: Do we have P.E. on Wednesday? — Tom: No, we don't. We have music on Wednesday and "
+                        "P.E. on Thursday.",
+                        "Anna: Does Lily have swimming club? — Tom: Yes, she does. She has swimming club on Friday."])]),
         Section("Part 2 · Vocabulary", [
             PicLabel("Look and write the phrases.", items=[
                 ("get up", "get up"), ("lunch", "have lunch"), ("go home", "go home"), ("bed", "go to bed")],
@@ -116,31 +116,31 @@ QUARTERS.append(dict(
             Order("Put the days in order (1–4).", items=["Tuesday", "Wednesday", "Thursday", "Friday"], seed=201)]),
         Section("Part 3 · Grammar", [
             Circle("Circle the correct word.", items=[
-                "{*Have|Has} we got Maths on Monday?",
-                "Has she got PE on Tuesday? — No, she {*hasn't|haven't}.",
+                "{*Do|Does} we have math on Monday?",
+                "Does she have P.E. on Tuesday? — No, she {*doesn't|don't}.",
                 "I {*get|gets} up at seven o'clock.",
                 "What time {*do|does} you go to school?",
                 "I go to bed at nine. — {*So|Too} do I."]),
             Fill("Complete the sentences.", items=[
-                "We've got Science {on} Wednesday.", "What club {has} he got in the evening?",
+                "We have science {on} Wednesday.", "What club {does} he have in the evening?",
                 "I have lunch {at} half past twelve.", "It's 7:30. It's {half past} seven.",
-                "I go to bed at eight. — I {don't}. I go to bed at nine."], extra_words=["in", "have"])]),
+                "I go to bed at eight. — I {don't}. I go to bed at nine."], extra_words=["in", "do"])]),
         Section("Part 4 · Reading", [
             Reading("Read and answer.", title="Anna's week", text=(
-                "Hi! I'm Anna. On Monday I've got Maths and English. I've got Art on Tuesday.\n\n"
+                "Hi! I'm Anna. On Monday I have math and English. I have art on Tuesday.\n\n"
                 "I get up at half past six on school days. I go to school at eight o'clock and I have lunch at one "
-                "o'clock. In the evening I've got swimming club."), questions=[
-                ("You are Anna. What have you got on Tuesday?", "Art."),
+                "o'clock. In the evening I have swimming club."), questions=[
+                ("You are Anna. What do you have on Tuesday?", "Art."),
                 ("What time do you get up?", "At half past six."),
-                ("What club have you got in the evening?", "Swimming club.")]),
+                ("What club do you have in the evening?", "Swimming club.")]),
             Unscramble("Put the words in the right order.", items=[
-                "What time do you get up?", "Have we got Art on Friday?", "So do I."])]),
+                "What time do you get up?", "Do we have art on Friday?", "So do I."])]),
         Section("Part 5 · Writing", [
             _writing("Write 4–5 sentences about your school day.", [
-                "On Monday I've got ___ and ___ .", "I get up at ___ .", "I go to school at ___ .",
-                "I've got ___ club on ___ ."],
-                ["On Monday I've got Maths and English. I get up at seven o'clock. I go to school at half past "
-                 "eight. I've got chess club on Wednesday."])]),
+                "On Monday I have ___ and ___ .", "I get up at ___ .", "I go to school at ___ .",
+                "I have ___ club on ___ ."],
+                ["On Monday I have math and English. I get up at seven o'clock. I go to school at half past "
+                 "eight. I have chess club on Wednesday."])]),
     ]))
 
 # ---------------------------------------------------------------- quarter 3 ----
@@ -152,15 +152,15 @@ QUARTERS.append(dict(
                        icons=["cake", "tv", "read", "dishes", "music"], heard=[3, 4, 0, 2, 1],
                        script=["It's Saturday afternoon at Karim's house.",
                                "Number 1: Malika is doing the dishes. Number 2: Dad is listening to music.",
-                               "Number 3: Mum is making a cake. Number 4: Karim is reading a book.",
+                               "Number 3: Mom is making a cake. Number 4: Karim is reading a book.",
                                "Number 5: Grandpa is watching TV."]),
             TrueFalse("Listen and write T (true) or F (false).", items=[
                 ("Aziza plays the piano on Mondays.", True), ("She does gymnastics on Tuesdays.", False),
-                ("She plays volleyball on Saturdays.", True), ("She plays table tennis.", False),
-                ("She makes films on Sundays.", True)],
+                ("She plays volleyball on Saturdays.", True), ("She plays ping-pong.", False),
+                ("She makes movies on Sundays.", True)],
                 script=["Aziza plays the piano on Mondays. She does gymnastics on Wednesdays and she plays "
                         "volleyball on Saturdays.",
-                        "She doesn't play table tennis. On Sundays she makes films with her brother."])]),
+                        "She doesn't play ping-pong. On Sundays she makes movies with her brother."])]),
         Section("Part 2 · Vocabulary", [
             PicLabel("Look and write the phrases.", items=[
                 ("juice", "drink juice"), ("sandwich", "eat a sandwich"), ("homework", "do homework"),
@@ -182,7 +182,7 @@ QUARTERS.append(dict(
         Section("Part 4 · Reading", [
             Reading("Read and answer.", title="Dilya's Saturday", text=(
                 "Dilya likes Saturdays. In the morning she does gymnastics. In the afternoon she makes a cake with "
-                "her mum.\n\n"
+                "her mom.\n\n"
                 "She doesn't like doing the dishes, but she enjoys listening to music. In the evening she plays the "
                 "guitar."), questions=[
                 ("What does Dilya do in the morning?", "She does gymnastics."),
@@ -196,7 +196,7 @@ QUARTERS.append(dict(
                 "My ___ likes ___ing.", "He / She doesn't like ___ing.", "He / She plays / does ___ on ___ .",
                 "Does he / she ...? Yes / No."],
                 ["My brother likes playing volleyball. He doesn't like doing the dishes. He plays volleyball on "
-                 "Saturdays. Does he enjoy making films? Yes, he does."])]),
+                 "Saturdays. Does he enjoy making movies? Yes, he does."])]),
     ]))
 
 # ------------------------------------------------ quarter 4 (final test) --------
@@ -222,7 +222,7 @@ QUARTERS.append(dict(
                 ("sunglasses", "sunglasses"), ("swimsuit", "swimsuit"), ("shell", "shell"),
                 ("watermelon", "watermelons")], bank=False, cols=4, size=36),
             OddOne("Circle the odd one out.", rows=[
-                (["rabbit", "snail", "flower", "tortoise"], "flower"),
+                (["rabbit", "snail", "flower", "turtle"], "flower"),
                 (["library", "gym", "playground", "juice"], "juice"),
                 (["karate", "piano", "badminton", "towel"], "towel"),
                 (["Monday", "Friday", "January", "Sunday"], "January")])]),
@@ -240,7 +240,7 @@ QUARTERS.append(dict(
         Section("Part 4 · Reading", [
             Reading("Read and answer.", title="A trip to the beach", text=(
                 "It's a hot day. Bobur and his family are at the beach. There are lots of people on the sand.\n\n"
-                "Bobur's sister is in the sea. She's wearing her swimsuit. Bobur is eating a burger. His dad is "
+                "Bobur's sister is in the ocean. She's wearing her swimsuit. Bobur is eating a burger. His dad is "
                 "reading a book. The blue towel is Dad's. It's his."), questions=[
                 ("Where is Bobur's family?", "They're at the beach."),
                 ("What is Bobur eating?", "A burger."),
@@ -249,9 +249,9 @@ QUARTERS.append(dict(
                 "Whose jacket is this?", "There are some pears.", "What time do you get up?"])]),
         Section("Part 5 · Writing", [
             _writing("Write a postcard from the beach (4–5 sentences).", [
-                "Dear ___ ,", "I'm at the beach. The sea is ___ .", "There are lots of ___ . I'm ___ing.",
+                "Dear ___ ,", "I'm at the beach. The ocean is ___ .", "There are lots of ___ . I'm ___ing.",
                 "Love, ___"],
-                ["Dear Grandma, I'm at the beach. The sea is blue. There are lots of shells. I'm swimming. "
+                ["Dear Grandma, I'm at the beach. The ocean is blue. There are lots of shells. I'm swimming. "
                  "Love, Dilnoza"])]),
     ]))
 
@@ -264,11 +264,11 @@ def _key_intro(q: dict, total: int) -> list:
     return [
         Heading("How to use this key", 2),
         Bullets([
-            "Time: 40 minutes (listening about 10 minutes, then the other parts). Pupils need a pencil.",
+            "Time: 40 minutes (listening about 10 minutes, then the other parts). Students need a pencil.",
             "Listening: read each script **twice**, slowly and clearly, with a short pause between the lines. "
-            "Do not help pupils with answers.",
+            "Do not help students with answers.",
             "Give 1 point for every correct item. Accept correct answers with small spelling slips only if the word "
-            "is recognisable; do not give the point if the grammar is wrong.",
+            "is recognizable; do not give the point if the grammar is wrong.",
             "Writing (6 points): use the rubric below.",
         ]),
         Table(part_rows, widths=[0.7, 0.3], header=True, style="grid", size=10),
@@ -305,14 +305,14 @@ SPEAKING_CARDS = {
     1: ["What's your name? How old are you?", "When's your birthday?", "What's that? (point to a picture of a snail)",
         "What's your pet's name? / What pet do you like?", "Where are you now? What are you doing?",
         "Where is the library? Where is the gym?"],
-    2: ["What day is it today? What day is it tomorrow?", "Have we got English on Monday?",
-        "What club have you got?", "What time do you get up?", "What time do you go to school?",
+    2: ["What day is it today? What day is it tomorrow?", "Do we have English on Monday?",
+        "What club do you have?", "What time do you get up?", "What time do you go to school?",
         "What time do you go to bed? (answer, then: So do I / I don't)"],
-    3: ["What do you like doing at home?", "Does your mum like cooking?", "What doesn't your dad like doing?",
-        "What hobby have you got? When do you do it?", "Does your friend play a sport? When?",
+    3: ["What do you like doing at home?", "Does your mom like cooking?", "What doesn't your dad like doing?",
+        "What hobby do you have? When do you do it?", "Does your friend play a sport? When?",
         "Can you play an instrument? Does your friend play?"],
     4: ["What fruit do you like? Are there any mangoes on the picture?", "Are there any tomatoes? How many?",
-        "Whose bag is this? (point)", "Which towel is yours? (pictures)", "What do you like doing on holiday?",
+        "Whose bag is this? (point)", "Which towel is yours? (pictures)", "What do you like doing on vacation?",
         "Tell me about your day (three sentences)."],
 }
 
@@ -331,7 +331,7 @@ def build_speaking(out: Path) -> list[Path]:
     blocks = [
         Heading("How to run the speaking check", 2),
         Bullets([
-            "Do it during the week of the quarter test: 3 minutes per pupil, in pairs or one-to-one while the class "
+            "Do it during the week of the quarter test: 3 minutes per student, in pairs or one-to-one while the class "
             "works on a quiet task.",
             "Start with an easy warm-up (name, age). Then ask 3–4 questions from the quarter's card; repeat or "
             "rephrase once if needed.",

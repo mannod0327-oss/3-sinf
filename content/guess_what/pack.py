@@ -6,6 +6,9 @@ from . import (
     unit7_market, unit8_beach,
 )
 
+# Guess What! is the American edition: teacher-facing templates say "students" (the grammar packs say "pupils").
+WORDS = {"student": "student"}
+
 UNITS = [m.SPEC for m in (unit0_welcome, unit1_garden, unit2_school, unit3_days, unit4_my_day, unit5_home,
                           unit6_hobbies, unit7_market, unit8_beach)]
 

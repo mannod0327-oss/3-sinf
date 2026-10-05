@@ -17,14 +17,14 @@
 
 ## Unit at a glance
 
-- **Vocabulary:** get up, get dressed, have breakfast, clean my teeth, go to school, have lunch, go home, have dinner, have a shower, go to bed
+- **Vocabulary:** get up, get dressed, have breakfast, brush your teeth, go to school, have lunch, go home, have dinner, take a shower, go to bed
 - **Grammar:** I (have dinner) at (half past seven). What time do you (get up)? I (get up) at (seven o'clock).
 - **Grammar:** So do I. / I don't.
 - **Skills:** Reading: Do you have a healthy lifestyle?
 - **Say it!:** ue / ew / oo — blue, chew, food
 - **Story value:** Take exercise
 - **Talk time:** Asking the time
-- **CLIL:** Maths — What's the time around the world?
+- **CLIL:** Math — What's the time around the world?
 
 ## Lessons
 
@@ -33,8 +33,8 @@
 3. What time do you get up? — *Grammar — What time do you …? I … at …; So do I. / I don't.*
 4. A healthy lifestyle — *Skills: Reading and writing — Do you have a healthy lifestyle?*
 5. Take exercise! — *Story value (take exercise), Talk time (asking the time), Say it! ue / ew / oo*
-6. Time around the world — *CLIL Maths — What's the time around the world?*
-7. Unit 4 revision and quiz — *Revision of Unit 4; quick quiz*
+6. Time around the world — *CLIL Math — What's the time around the world?*
+7. Unit 4 review and quiz — *Review of Unit 4; quick quiz*
 8. Review: Units 3 and 4 — *Student's Book Review pages for Units 3 and 4*
 
 ## Vocabulary (English – O'zbekcha)
@@ -44,12 +44,12 @@
 | ⏰ | **get up** | uyg'onmoq, o'rnidan turmoq |
 | 👕 | **get dressed** | kiyinmoq |
 | 🍳 | **have breakfast** | nonushta qilmoq |
-| 🪥 | **clean my teeth / brush my teeth** | tishimni tozalamoq |
+| 🪥 | **brush your teeth** | tishni tozalamoq |
 | 🎒 | **go to school** | maktabga bormoq |
 | 🍲 | **have lunch** | tushlik qilmoq |
 | 🏠 | **go home** | uyga qaytmoq |
 | 🍗 | **have dinner** | kechki ovqat yemoq |
-| 🚿 | **have a shower / take a shower** | cho'milmoq, dush qabul qilmoq |
+| 🚿 | **take a shower** | cho'milmoq, dush qabul qilmoq |
 | 🛏 | **go to bed** | uxlashga yotmoq |
 
 ### Extra words used in the lessons

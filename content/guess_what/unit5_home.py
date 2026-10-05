@@ -47,16 +47,16 @@ LESSONS = [
                   "do homework, listen to music, make a cake, wash the car"],
         materials=["Flashcards", "Student's Book Vocabulary page + audio", "Worksheet A exercises A–B"],
         greeting="Greet the class and ask 'What do you do after school?' (Uzbek is fine). Write **Home time** on the board.",
-        warmup="**Mime the chore**: pupils mime an activity; the class shouts the Uzbek word; you give the English phrase.",
+        warmup="**Mime the chore**: students mime an activity; the class shouts the Uzbek word; you give the English phrase.",
         present="Present the ten phrases with actions and flashcards. Choral and individual repetition. Student's Book: "
                 "*Listen and point*, *Listen, point and repeat*. Note 'do' with homework / dishes, 'make' with cake, "
                 "'watch' with TV.",
         practice="Worksheet A exercises A (label the pictures) and B (match with Uzbek). Play **What's missing?**",
         produce="**Mime and guess** in groups: 'Are you washing the car?' — 'Yes, I am.' Keep the -ing forms simple and "
                 "oral.",
-        wrap="Teacher says a phrase, pupils do the action; then they say it back without a prompt. Homework.",
-        homework="Learn the phrases and draw your favourite home activity (Worksheet A exercise F).",
-        assessment="Point at cards for 5 pupils; note gaps.",
+        wrap="Teacher says a phrase, students do the action; then they say it back without a prompt. Homework.",
+        homework="Learn the phrases and draw your favorite home activity (Worksheet A exercise F).",
+        assessment="Point at cards for 5 students; note gaps.",
         tips=["'do / make / watch' fe'llari: 'do homework', 'make a cake', 'watch TV'. O'zbekchada hammasi "
               "'qilmoq' — shuning uchun fe'l + ot juftliklarini jadval qilib yozing.",
               "'homework' sanalmaydigan ot: 'a homework' deb aytilmaydi.",
@@ -68,17 +68,17 @@ LESSONS = [
         aims=["say what he / she likes or doesn't like: He doesn't like reading books.",
               "use verb + -ing after like and enjoy: likes watching TV"],
         language=["He (doesn't like) (reading books).", "She likes / enjoys (listening to music)."],
-        materials=["Picture cards of family members (mum, dad, brother)", "Flashcards", "Worksheet B exercise A"],
-        greeting="Ask 'Does your brother like football?' (yes / no, in any language) and write 'likes' on the board.",
-        warmup="**Like / don't like lines**: pupils move to one side of the room for 'I like…' and the other for 'I don't like…'.",
+        materials=["Picture cards of family members (mom, dad, brother)", "Flashcards", "Worksheet B exercise A"],
+        greeting="Ask 'Does your brother like soccer?' (yes / no, in any language) and write 'likes' on the board.",
+        warmup="**Like / don't like lines**: students move to one side of the room for 'I like…' and the other for 'I don't like…'.",
         present="Show a boy (Karim) with thumbs up for watching TV and thumbs down for doing the dishes. Say: 'Karim "
                 "likes watching TV. He doesn't like doing the dishes.' Write the rule: he / she + likes; doesn't + "
                 "like. Verb + -ing after like / enjoy.",
         practice="Student's Book Grammar activities. Worksheet B exercises A (circle) and B (complete with words from "
                  "the box).",
-        produce="**Family talk**: pupils tell a partner two sentences about a family member: 'My mum likes cooking. "
+        produce="**Family talk**: students tell a partner two sentences about a family member: 'My mom likes cooking. "
                 "She doesn't like washing the car.'",
-        wrap="Quick-fire: show a picture and a thumb; pupils say the full sentence. Homework.",
+        wrap="Quick-fire: show a picture and a thumb; students say the full sentence. Homework.",
         homework="Workbook grammar page; write three sentences about your family's likes.",
         assessment="Check likes / doesn't like and -ing forms in the family talk.",
         tips=["Uchinchi shaxs -s: he/she/it **likes**. O'zbek tilida bunday qo'shimcha yo'q, shuning uchun "
@@ -94,21 +94,21 @@ LESSONS = [
         language=["Does he (enjoy) (doing the dishes)? — Yes, he does. / No, he doesn't.",
                   "Does she like (making cakes)?"],
         materials=["Activity cards (a picture + a thumb up/down)", "Chant from the audio", "Worksheet B exercises C–D"],
-        greeting="Ask 'Does Anna like reading?' about a pupil, pointing to her. Elicit 'Yes, she does.'",
+        greeting="Ask 'Does Anna like reading?' about a student, pointing to her. Elicit 'Yes, she does.'",
         warmup="**Yes / no cards**: hold up the 'does' and 'doesn't' cards as the class answers your questions.",
         present="Board table: Does he/she + verb …? → Yes, he/she does. / No, he/she doesn't. Show that after 'does' the "
                 "verb is bare (enjoy, like). Drill with picture questions.",
         practice="Play the chant / Student's Book Grammar audio. Worksheet B exercises C (unscramble) and D (read and "
                  "answer).",
-        produce="**Guess who it is**: a pupil chooses a famous person or a classmate; the class asks 'Does he like "
-                "football?' (only yes/no answers) until they guess.",
-        wrap="Teacher asks five quick questions about a picture family; pupils answer in chorus. Homework.",
-        homework="Activity Book grammar page; write four yes / no questions about a friend.",
+        produce="**Guess who it is**: a student chooses a famous person or a classmate; the class asks 'Does he like "
+                "soccer?' (only yes/no answers) until they guess.",
+        wrap="Teacher asks five quick questions about a picture family; students answer in chorus. Homework.",
+        homework="Workbook grammar page; write four yes / no questions about a friend.",
         assessment="Listen for Does + bare verb and the correct short answer.",
         tips=["Savol shakli: **Does** + he/she + fe'l (asl holat). 'Does he likes' — eng ko'p xato; har safar "
               "to'g'rilab boring.",
               "Qisqa javob: Yes, he **does**. / No, he **doesn't**. Uzun javobni talab qilmang.",
-              "Support: give a question frame. Extension: pupils ask 'Why?' and answer 'Because…'"],
+              "Support: give a question frame. Extension: students ask 'Why?' and answer 'Because…'"],
         interactions=("T-Ss", "T-Ss", "T-Ss", "S / Ss-Ss", "Ss-Ss / G", "T-Ss"),
     ),
     Lesson.std(
@@ -121,12 +121,12 @@ LESSONS = [
         greeting="Ask 'Are you helpful at home?' and count the hands.",
         warmup="**Chore race**: two teams mime chores; the first to guess the phrase scores a point.",
         present="Pre-listening: look at the pictures, name chores. Play the audio twice: first for gist (who helps), "
-                "then to tick likes and dislikes.",
-        practice="Check in pairs and with the class. Pupils read the Saturday text (Worksheet B exercise D) and find "
+                "then to check likes and dislikes.",
+        practice="Check in pairs and with the class. Students read the Saturday text (Worksheet B exercise D) and find "
                  "who does what.",
-        produce="Writing: using the help box, pupils write four sentences about a family member's likes and "
+        produce="Writing: using the help box, students write four sentences about a family member's likes and "
                 "dislikes. Volunteers read aloud.",
-        wrap="Pupils swap texts and tick a sentence they like. Homework.",
+        wrap="Students swap texts and check a sentence they like. Homework.",
         homework="Finish the text; add a drawing of the family.",
         assessment="Collect five texts: check -s, doesn't + verb, -ing forms.",
         tips=["Tinglash: rasmlarni avval nomlang — so'zlar eshitilganda tanish bo'ladi.",
@@ -143,15 +143,15 @@ LESSONS = [
                   "Sound: th → /θ/ (three, panthers, thank you)"],
         materials=["Student's Book story + audio", "Student's Book Say it! page", "pictures of food"],
         greeting="Ask 'Do you say sorry when you're wrong?' Write **sorry / forgive** on the board.",
-        warmup="**Say sorry**: pairs practise 'I'm sorry.' — 'That's OK.' with different situations.",
+        warmup="**Say sorry**: pairs practice 'I'm sorry.' — 'That's OK.' with different situations.",
         present="Story: predict from the pictures, listen, answer 'Who is sorry? Who forgives?' Discuss in Uzbek, then "
                 "conclude in English: 'Friends forgive.'",
-        practice="Talk time: model 'Let's make a cake! — Good idea!', practise in open and closed pairs with food pictures. "
+        practice="Talk time: model 'Let's make a cake! — Good idea!', practice in open and closed pairs with food pictures. "
                  "Say it!: put your tongue between your teeth; repeat three / thank you / panther.",
         produce="**Class menu**: groups decide what to make for a class party using Let's… / Good idea!, then present "
                 "their menu.",
         wrap="Chant the Say it! tongue twister. Homework.",
-        homework="Activity Book story page; suggest a meal to cook at home.",
+        homework="Workbook story page; suggest a meal to cook at home.",
         assessment="Listen for correct /θ/ and Let's … in the menu task.",
         tips=["'th' (/θ/) — til uchi tishlar orasida. O'zbek tilida bu tovush yo'q, ko'p bolalar 's' yoki 't' "
               "deyishadi ('sree', 'tree'). Ko'zgu bilan mashq qiling.",
@@ -166,12 +166,12 @@ LESSONS = [
         language=["city · village · mountains · desert · tent", "People live in (villages)."],
         materials=["Student's Book CLIL pages", "pictures of homes", "A4 paper and pencils"],
         greeting="Ask 'Do you live in a city or a village?' and count the answers.",
-        warmup="**Where is it?** Show pictures of homes; pupils say 'city / village / mountains / desert'.",
-        present="Compare homes around the world (flat, house, yurt / tent, mountain house). Introduce the sentence "
+        warmup="**Where is it?** Show pictures of homes; students say 'city / village / mountains / desert'.",
+        present="Compare homes around the world (apartment, house, yurt / tent, mountain house). Introduce the sentence "
                 "frames.",
-        practice="Student's Book CLIL activities. Pupils match people to places in a short table.",
-        produce="**My home poster**: pupils draw their home and its surroundings and write one sentence.",
-        wrap="Gallery walk: pupils read two classmates' posters. Homework.",
+        practice="Student's Book CLIL activities. Students match people to places in a short table.",
+        produce="**My home poster**: students draw their home and its surroundings and write one sentence.",
+        wrap="Gallery walk: students read two classmates' posters. Homework.",
         homework="Ask an older relative where people lived in your area long ago.",
         assessment="Poster rubric: picture (1), sentence (1), neatness (1).",
         tips=["'yurt' — 'o'tov' (ko'chmanchi uyi) — o'zbek madaniyatiga bog'lang.",
@@ -179,8 +179,8 @@ LESSONS = [
         interactions=("T-Ss", "T-Ss", "T-Ss", "S / Ss-Ss", "S", "Ss-Ss"),
     ),
     Lesson.std(
-        title="Unit 5 revision and quiz",
-        focus="Revision of Unit 5; quick quiz",
+        title="Unit 5 review and quiz",
+        focus="Review of Unit 5; quick quiz",
         aims=["use home activities, likes / doesn't like and Does he…? accurately", "complete the unit quiz"],
         language=["All language from Unit 5"],
         materials=["Quiz (worksheets/quiz.pdf)", "Bingo (games/bingo.pdf)", "Flashcards"],
@@ -192,7 +192,7 @@ LESSONS = [
         wrap="Go over common mistakes; praise progress.",
         homework="Correct your quiz mistakes.",
         assessment="Mark with the answer keys and record results.",
-        tips=[GRADE_TIP_20, "Weak pupils: read instructions aloud. Extension: write five questions for a class survey."],
+        tips=[GRADE_TIP_20, "Weak students: read instructions aloud. Extension: write five questions for a class survey."],
         interactions=("T-Ss", "Ss-Ss", "T-Ss", "Ss-Ss", "S", "T-Ss"),
     ),
 ]
@@ -215,7 +215,7 @@ A = [
         (["juice", "sandwich", "cake", "computer"], "computer"),
         (["read", "watch", "listen", "sandwich"], "sandwich"),
         (["wash", "make", "cake", "do"], "cake")]),
-    Draw("Draw your favourite home activity.", prompts=["I like ________ ."]),
+    Draw("Draw your favorite home activity.", prompts=["I like ________ ."]),
 ]
 
 B = [
@@ -231,19 +231,19 @@ B = [
         "Karim {likes} watching TV.",
         "He {doesn't} like doing the dishes.",
         "{Does} she enjoy making cakes? — Yes, she {does}.",
-        "My mum {enjoys} listening to music."], extra_words=["do"]),
+        "My mom {enjoys} listening to music."], extra_words=["do"]),
     Unscramble("Put the words in the right order.", items=[
         "He doesn't like reading books.", "Does she enjoy making cakes?", "Yes, she does.", "No, he doesn't."]),
     Reading("Read and answer.", title="Saturday at home", text=(
         "Karim's family is busy on Saturday. Karim washes the car. His sister Malika does the dishes. "
         "She doesn't like doing the dishes, but she likes listening to music.\n\n"
-        "Dad reads a book. Mum makes a cake. Karim enjoys making cakes too."), questions=[
+        "Dad reads a book. Mom makes a cake. Karim enjoys making cakes too."), questions=[
         ("Does Karim wash the car?", "Yes, he does."),
         ("Does Malika like doing the dishes?", "No, she doesn't."),
         ("What does Dad do?", "He reads a book.")]),
     WriteAbout("Write about a person in your family.", frames=[
         "My ___ likes ___ing.", "He / She doesn't like ___ing.", "Does he / she enjoy ___ing? Yes / No."], lines=3,
-        model=["My mum likes cooking. She doesn't like washing the car. Does she enjoy listening to music? "
+        model=["My mom likes cooking. She doesn't like washing the car. Does she enjoy listening to music? "
                "Yes, she does."]),
 ]
 

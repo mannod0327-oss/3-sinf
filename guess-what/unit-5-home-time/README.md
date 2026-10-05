@@ -34,7 +34,7 @@
 4. Are you helpful at home? — *Skills: Listening — Are you helpful at home? + writing about a family*
 5. Say sorry, forgive — *Story value (show forgiveness), Talk time (suggesting food to make), Say it! th*
 6. Where do people live? — *CLIL Geography — Where do people live?*
-7. Unit 5 revision and quiz — *Revision of Unit 5; quick quiz*
+7. Unit 5 review and quiz — *Review of Unit 5; quick quiz*
 
 ## Vocabulary (English – O'zbekcha)
 

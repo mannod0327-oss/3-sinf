@@ -34,7 +34,7 @@
 4. Do you like smoothies? — *Skills: Listening — Do you like smoothies? + writing a recipe*
 5. Reuse old things — *Story value (reuse old things), Talk time (making choices), Say it! ch*
 6. Plants we eat — *CLIL Science — What parts of plants can we eat?*
-7. Unit 7 revision and quiz — *Revision of Unit 7; quick quiz*
+7. Unit 7 review and quiz — *Review of Unit 7; quick quiz*
 
 ## Vocabulary (English – O'zbekcha)
 

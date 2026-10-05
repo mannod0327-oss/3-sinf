@@ -44,14 +44,14 @@ def annual_plan(out: Path) -> list[Path]:
         bg.append(["FFF6E0"] * 5 if r["unit"] == "Tests" else [None] * 5)
     blocks = [
         Para("A suggested plan for **68 lessons** (2 lessons a week × 34 weeks). The shaded rows are tests. "
-             "Move lessons around to fit your school timetable, holidays and quarter dates.", "note"),
+             "Move lessons around to fit your school schedule, holidays and quarter dates.", "note"),
         Table(table, widths=[0.05, 0.085, 0.2, 0.25, 0.415], header=True, style="stage", size=9, bg=bg),
         Heading("Quarter overview", 2),
         Table([["Quarter", "Lessons", "Content", "Test"],
                ["1", "1 – 20", "Welcome, Unit 1, Unit 2", "Quarter 1 test"],
                ["2", "21 – 36", "Unit 3, Unit 4", "Quarter 2 test"],
                ["3", "37 – 52", "Unit 5, Unit 6", "Quarter 3 test"],
-               ["4", "53 – 68", "Unit 7, Unit 8 + revision", "Final test"]],
+               ["4", "53 – 68", "Unit 7, Unit 8 + review", "Final test"]],
               widths=[0.12, 0.15, 0.45, 0.28], header=True, style="grid", size=10),
     ]
     doc = Doc(title="Annual plan", blocks=blocks, badge=BADGE, subtitle="Guess What! Grade 3 · 68 lessons · 34 weeks",
@@ -67,8 +67,10 @@ def course_map(out: Path) -> list[Path]:
         rows.append([f"**{u.number if u.number else 'W'}  {u.title}**", i.vocabulary, "\n".join(i.grammar),
                      f"{i.skills}\nSay it!: {i.phonics}", f"{i.story_value}\n{i.talk_time}", i.clil])
     doc = Doc(title="Course map", badge=BADGE, subtitle="Welcome + 8 units", kind="reference",
-              blocks=[Para("Built from the publisher's table of contents of Cambridge *Guess What!* Level 3 (Reed, "
-                           "Koustaff, Bentley). Use it to see at a glance what each unit teaches.", "note"),
+              blocks=[Para("Cambridge *Guess What!* Level 3, American Edition. Unit topics, vocabulary and grammar were checked "
+                           "against the unit word cards and the official unit tests. Story value, Talk time, Say it! and CLIL "
+                           "come from the publisher's table of contents of the British edition and may differ in your "
+                           "edition — check them against your Student's Book.", "note"),
                       Table(rows, widths=[0.12, 0.22, 0.24, 0.16, 0.14, 0.12], header=True, style="stage", size=8)])
     return [render_md(doc, out / "course-map.md"), render_pdf(doc, out / "course-map.pdf")]
 
@@ -100,7 +102,7 @@ def pack_readme(out: Path) -> Path:
     lines = [
         "# Guess What! — 3-sinf (Grade 3) materiallari",
         "",
-        "Cambridge **Guess What! Level 3** (Reed, Koustaff, Bentley) darsligi uchun **original** o'qituvchi "
+        "Cambridge **Guess What! Level 3** (**American Edition**) darsligi uchun **original** o'qituvchi "
         "materiallari: dars rejalari, ish varaqlari, kalitlar, o'yinlar va chorak nazorat ishlari. "
         "Darslik matnlari, rasmlari va audiolari bu yerda **yo'q** — ular sizdagi nashrdan olinadi.",
         "",
@@ -140,8 +142,13 @@ def pack_readme(out: Path) -> Path:
         "",
         "## Eslatmalar",
         "",
-        "- Dars rejalaridagi **Student's Book / Activity Book** sahifalari Cambridge nashri mazmuniga mos; "
+        "- Dars rejalaridagi **Student's Book / Workbook** sahifalari Cambridge nashri mazmuniga mos; "
         "sahifa raqamlari nashrlarda farq qilgani uchun ko'rsatilmagan.",
+        "- **Amerikacha nashr:** imlo va so'zlar amerikacha (*color, favorite, mom, soccer, vacation, math, fries, "
+        "ocean*), Unit 3 grammatikasi *Do we have …?*. Unit mavzulari, lug'at va grammatika Drive'dagi "
+        "Word Cards va rasmiy unit testlari bilan solishtirib tekshirilgan. *Story value / Talk time / Say it! / CLIL* "
+        "qatorlari britaniya nashri mundarijasidan olingan — sizning nashringizda farq qilishi mumkin, "
+        "Student's Book bilan solishtiring.",
         "- Yillik reja 68 soatga (haftasiga 2 soat) mo'ljallangan; maktabingiz jadvaliga moslab o'zgartiring.",
         "- Rasmlar — Twemoji (CC-BY 4.0), shrift — Andika (SIL OFL). Batafsil: [../NOTICE.md](../NOTICE.md).",
         "",

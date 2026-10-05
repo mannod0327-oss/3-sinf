@@ -12,7 +12,7 @@ from dataclasses import dataclass, field
 from random import Random
 
 from . import games
-from .model import Block, Box, Doc, Group, Lines, PageBreak, Para, Spacer, Table
+from .model import Block, Box, Doc, Group, Lines, PageBreak, Para, Spacer, Table, student
 
 BRACE = re.compile(r"\{([^{}]*)\}")
 LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -344,7 +344,7 @@ class Draw(Exercise):
 
     def body(self, key: bool) -> list[Block]:
         if key:
-            return [Para("Pupils' own drawings — praise effort and check the labels.", "note")]
+            return [Para(f"{student(plural=True, cap=True)}' own drawings — praise effort and check the labels.", "note")]
         return [Box([Para(p, "center")], kind="draw") for p in self.prompts]
 
 

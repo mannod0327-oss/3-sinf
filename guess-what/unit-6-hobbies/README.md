@@ -17,7 +17,7 @@
 
 ## Unit at a glance
 
-- **Vocabulary:** play the piano, play the guitar, play the recorder, make models, make films, do karate, do gymnastics, play table tennis, play badminton, play volleyball
+- **Vocabulary:** play the piano, play the guitar, play the recorder, make models, make movies, do karate, do gymnastics, play ping-pong, play badminton, play volleyball
 - **Grammar:** She (does karate) (on Sundays).
 - **Grammar:** Does she (do gymnastics) (in the evening)? Yes, she does. / No, she doesn't.
 - **Skills:** Reading: What sports do you like?
@@ -34,7 +34,7 @@
 4. What sports do you like? — *Skills: Reading and writing — What sports do you like?*
 5. Try new things — *Story value (try new things), Talk time (encouraging others), Say it! sh*
 6. Musical instruments — *CLIL Music — What type of musical instrument is it?*
-7. Unit 6 revision and quiz — *Revision of Unit 6; quick quiz*
+7. Unit 6 review and quiz — *Review of Unit 6; quick quiz*
 8. Review: Units 5 and 6 — *Student's Book Review pages for Units 5 and 6*
 
 ## Vocabulary (English – O'zbekcha)
@@ -45,10 +45,10 @@
 | 🎸 | **play the guitar** | gitara chalmoq |
 | 🪈 | **play the recorder** | fleyta chalmoq |
 | 🧱 | **make models** | maketlar yasamoq |
-| 🎬 | **make films / make movies** | kino (film) suratga olmoq |
+| 🎬 | **make movies** | kino (movie) suratga olmoq |
 | 🥋 | **do karate** | karate bilan shug'ullanmoq |
 | 🤸 | **do gymnastics** | gimnastika bilan shug'ullanmoq |
-| 🏓 | **play table tennis / Ping-Pong** | stol tennisi o'ynamoq |
+| 🏓 | **play ping-pong** | stol tennisi o'ynamoq |
 | 🏸 | **play badminton** | badminton o'ynamoq |
 | 🏐 | **play volleyball** | voleybol o'ynamoq |
 

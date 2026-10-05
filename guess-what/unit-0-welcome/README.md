@@ -18,9 +18,9 @@
 ## Unit at a glance
 
 - **Vocabulary:** Lucas, Max, Lily, Tom, Anna; the twelve months
-- **Grammar:** Revision of questions (What's your name? How old are you? Where are you from?)
+- **Grammar:** Review of questions (What's your name? How old are you? Where are you from?)
 - **Grammar:** When's your birthday? It's in (December).
-- **Skills:** Reading: Have you got an email penpal?
+- **Skills:** Reading: Do you have an email penpal?
 - **Say it!:** a / ai — snakes, tails
 - **Story value:** Work together
 - **Talk time:** Asking for permission
@@ -28,7 +28,7 @@
 
 ## Lessons
 
-1. Meet the friends — *The five course characters; revision of personal questions*
+1. Meet the friends — *The five course characters; review of personal questions*
 2. Months of the year — *Vocabulary — the twelve months*
 3. When's your birthday? — *Grammar — When's your birthday? It's in (December). + Reading: an email penpal*
 4. Work together — *Story value (work together), Talk time (asking for permission), Say it! a / ai, CLIL Art (landscape)*

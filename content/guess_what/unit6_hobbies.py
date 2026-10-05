@@ -13,10 +13,10 @@ VOCAB = [
     V("play the guitar", "gitara chalmoq", "guitar"),
     V("play the recorder", "fleyta chalmoq", "recorder"),
     V("make models", "maketlar yasamoq", "models"),
-    V("make films / make movies", "kino (film) suratga olmoq", "films"),
+    V("make movies", "kino (movie) suratga olmoq", "movies"),
     V("do karate", "karate bilan shug'ullanmoq", "karate"),
     V("do gymnastics", "gimnastika bilan shug'ullanmoq", "gymnastics"),
-    V("play table tennis / Ping-Pong", "stol tennisi o'ynamoq", "table tennis"),
+    V("play ping-pong", "stol tennisi o'ynamoq", "ping-pong"),
     V("play badminton", "badminton o'ynamoq", "badminton"),
     V("play volleyball", "voleybol o'ynamoq", "volleyball"),
 ]
@@ -29,8 +29,8 @@ EXTRA = [
 
 INFO = UnitInfo(
     number=6, title="Hobbies", topic="Hobbies and sports; what people do and when",
-    vocabulary="play the piano, play the guitar, play the recorder, make models, make films, do karate, do gymnastics, "
-               "play table tennis, play badminton, play volleyball",
+    vocabulary="play the piano, play the guitar, play the recorder, make models, make movies, do karate, do gymnastics, "
+               "play ping-pong, play badminton, play volleyball",
     grammar=["She (does karate) (on Sundays).",
              "Does she (do gymnastics) (in the evening)? Yes, she does. / No, she doesn't."],
     skills="Reading: What sports do you like?",
@@ -46,20 +46,20 @@ LESSONS = [
         title="Hobby words",
         focus="Vocabulary — ten hobbies and sports",
         aims=["name ten hobbies", "say what hobbies they like: I play the guitar. I do karate."],
-        language=["play the piano / guitar / recorder, make models / films, do karate / gymnastics, "
-                  "play table tennis / badminton / volleyball"],
+        language=["play the piano / guitar / recorder, make models / movies, do karate / gymnastics, "
+                  "play ping-pong / badminton / volleyball"],
         materials=["Flashcards", "Student's Book Vocabulary page + audio", "Worksheet A exercises A–B"],
         greeting="Greet the class. Ask 'What do you like doing after school?' and write **Hobbies** on the board.",
-        warmup="**Charades**: pupils mime a hobby; the class guesses in Uzbek and you give the English phrase.",
+        warmup="**Charades**: students mime a hobby; the class guesses in Uzbek and you give the English phrase.",
         present="Present the ten cards with actions. Show the verb patterns: **play** + instrument / ball game; **do** + "
-                "karate / gymnastics; **make** + models / films. Student's Book: *Listen and point*, *Listen, point "
+                "karate / gymnastics; **make** + models / movies. Student's Book: *Listen and point*, *Listen, point "
                 "and repeat*, number game ('Is he playing the piano? Number 4!').",
         practice="Worksheet A exercises A (label) and B (match with Uzbek). Play **What's missing?**",
-        produce="**Is he playing the piano?** Pairs play the Student's Book number game: one pupil asks yes / no "
+        produce="**Is he playing the piano?** Pairs play the Student's Book number game: one student asks yes / no "
                 "questions until they guess the picture number.",
-        wrap="Teacher says a phrase; pupils act it. Homework.",
+        wrap="Teacher says a phrase; students act it. Homework.",
         homework="Learn the phrases and draw your hobby (Worksheet A exercise F).",
-        assessment="Point at cards for 5 pupils; note gaps.",
+        assessment="Point at cards for 5 students; note gaps.",
         tips=["'play / do / make' — uchta fe'l, o'zbekchada ko'pincha 'qilmoq / chalmoq'. Jadval: play + gitara, "
               "do + karate, make + kino.",
               "'recorder' — bolalar fleytasi (blokflöyta). Mahalliy maktab musiqa xonasidagi 'nay' bilan solishtiring.",
@@ -73,15 +73,15 @@ LESSONS = [
         language=["She (does karate) (on Sundays). He plays / makes / does …",
                   "on Saturdays · in the evening · after school"],
         materials=["A weekly hobby chart for one child (draw on the board)", "Flashcards", "Worksheet B exercise A"],
-        greeting="Ask 'What does your friend do on Saturdays?' pointing to a pupil and model 'She plays …'.",
-        warmup="**What does she do?** Show a weekly hobby chart of an imaginary child and pupils guess the hobby from a mime.",
+        greeting="Ask 'What does your friend do on Saturdays?' pointing to a student and model 'She plays …'.",
+        warmup="**What does she do?** Show a weekly hobby chart of an imaginary child and students guess the hobby from a mime.",
         present="Read the chart: 'Lily plays badminton on Saturdays. She does karate on Sundays. She makes models after "
                 "school.' Underline the verb endings (plays, does, makes) and the time phrases. Point out the "
                 "irregular forms do → does, go → goes.",
         practice="Student's Book Grammar activities (listen, then true / false). Worksheet B exercise A (circle).",
-        produce="**Hobby chart**: pupils draw a weekly chart for an imaginary friend and tell a partner: 'Bobur plays "
+        produce="**Hobby chart**: students draw a weekly chart for an imaginary friend and tell a partner: 'Bobur plays "
                 "volleyball on Fridays.'",
-        wrap="Quick-fire: name a child and a day; pupils say the sentence. Homework.",
+        wrap="Quick-fire: name a child and a day; students say the sentence. Homework.",
         homework="Workbook grammar page; write three sentences about a friend's hobbies and when.",
         assessment="Check -s / -es endings and the time phrases.",
         tips=["Vaqt predloglari: **on** + kun (on Sundays), **in** + kun qismi (in the evening), **after** school. "
@@ -95,17 +95,17 @@ LESSONS = [
         aims=["ask and answer: Does she do gymnastics in the evening? Yes, she does.",
               "ask about time: When does he play volleyball?"],
         language=["Does she (do gymnastics) (in the evening)? — Yes, she does. / No, she doesn't."],
-        materials=["Club timetables (Student's Book club notes or your own)", "Chant from the audio", "Worksheet B exercises B–C"],
-        greeting="Ask 'Does your friend play football?' and elicit 'Yes, he does.'",
+        materials=["Club schedules (Student's Book club notes or your own)", "Chant from the audio", "Worksheet B exercises B–C"],
+        greeting="Ask 'Does your friend play soccer?' and elicit 'Yes, he does.'",
         warmup="**Yes / no race**: two teams; you ask 'Does she play the piano?' pointing to a picture; fastest correct answer "
                "scores.",
         present="Use the Student's Book club notes (two children and their clubs): 'Does he play tennis on Tuesdays? Yes, "
                 "he does.' 'Does she play volleyball in the morning? No, she doesn't.' Build the pattern on the board.",
         practice="Play the chant / Student's Book Grammar audio. Worksheet B exercises B (fill) and C (unscramble).",
-        produce="**Club detectives**: pairs get different timetables; A asks yes / no questions to fill in their "
+        produce="**Club detectives**: pairs get different schedules; A asks yes / no questions to fill in their "
                 "missing days.",
-        wrap="Teacher asks five questions about the timetables; pupils answer chorally. Homework.",
-        homework="Activity Book grammar page; write four questions about a friend's hobbies.",
+        wrap="Teacher asks five questions about the schedules; students answer chorally. Homework.",
+        homework="Workbook grammar page; write four questions about a friend's hobbies.",
         assessment="Check Does + bare verb and short answers.",
         tips=["'Does' bor joyda asosiy fe'lga -s qo'shilmaydi: Does she **do**, Does he **play**.",
               "Support: question frames on strips. Extension: ask 'When…?' questions."],
@@ -115,18 +115,18 @@ LESSONS = [
         title="What sports do you like?",
         focus="Skills: Reading and writing — What sports do you like?",
         aims=["read a text about a boy and his sports and answer questions",
-              "write about their favourite sport"],
-        language=["He goes to a football club on Tuesdays.", "favourite sport · healthy diet"],
+              "write about their favorite sport"],
+        language=["He goes to a soccer club on Tuesdays.", "favorite sport · healthy diet"],
         materials=["Student's Book Reading page", "Worksheet B exercises D–E"],
-        greeting="Ask 'Who likes football?' Count hands and write the class results.",
-        warmup="**Sports survey**: pupils stand and group themselves by favourite sport.",
-        present="Before reading: look at the picture and predict. Read aloud once while pupils underline the sports. Check "
+        greeting="Ask 'Who likes soccer?' Count hands and write the class results.",
+        warmup="**Sports survey**: students stand and group themselves by favorite sport.",
+        present="Before reading: look at the picture and predict. Read aloud once while students underline the sports. Check "
                 "'healthy diet' with pictures.",
         practice="Silent reading, then the comprehension questions (Student's Book, then Worksheet B exercise D). Check in "
                  "pairs.",
-        produce="Writing: pupils write four sentences about their favourite sport using the help box (Worksheet B "
+        produce="Writing: students write four sentences about their favorite sport using the help box (Worksheet B "
                 "exercise E).",
-        wrap="Class chart: 'Football is our class favourite.' Homework.",
+        wrap="Class chart: 'Soccer is our class favorite.' Homework.",
         homework="Finish the writing; add a drawing.",
         assessment="Collect five texts; check verb endings and time phrases.",
         tips=["'goes to a club' — 'to'garakka qatnaydi'. 'go' → 'goes' (-es) ni alohida ko'rsating.",
@@ -142,14 +142,14 @@ LESSONS = [
         language=["Come on — try it! · You can do it! · Well done!", "Sound: sh → /ʃ/ (sharks, fish)"],
         materials=["Student's Book story + audio", "Student's Book Say it! page"],
         greeting="Ask 'What new thing did you try this year?' (Uzbek is fine).",
-        warmup="**Try it!** Pupils try an unusual action (write with the other hand) while the class shouts 'You can do it!'",
+        warmup="**Try it!** Students try an unusual action (write with the other hand) while the class shouts 'You can do it!'",
         present="Story: predict from pictures, listen, answer 'Who can play? Who is afraid? Who helps?' Discuss the value "
                 "and conclude in English: 'Try new things.'",
-        practice="Talk time: model 'Come on — try it!' and practise in open and closed pairs with one pupil hesitating. "
+        practice="Talk time: model 'Come on — try it!' and practice in open and closed pairs with one student hesitating. "
                  "Say it!: listen, repeat, find more sh words.",
-        produce="**Try this!** Pairs role-play: one tries a new hobby (table tennis), the other encourages.",
+        produce="**Try this!** Pairs role-play: one tries a new hobby (ping-pong), the other encourages.",
         wrap="Chant the Say it! tongue twister. Homework.",
-        homework="Activity Book story page; try one new thing and tell the class.",
+        homework="Workbook story page; try one new thing and tell the class.",
         assessment="Listen for encouraging phrases and /ʃ/.",
         tips=["/ʃ/ o'zbekcha 'sh' ga o'xshash — bu tovush bolalarga oson. 'fish' oxiridagi 'sh' ni cho'zib mashq qiling.",
               "Ruhlantirish iboralarini har dars boshida ishlating: 'Well done!'"],
@@ -164,13 +164,13 @@ LESSONS = [
         materials=["Student's Book CLIL pages", "pictures of instruments (drum, dutar, flute, trumpet, guitar)",
                    "recycled card, rice / beans, tape (to make a drum)"],
         greeting="Play a short clip or make a sound; ask 'What instrument is it?'",
-        warmup="**Name that sound**: pupils guess the instrument from a sound or mime.",
+        warmup="**Name that sound**: students guess the instrument from a sound or mime.",
         present="Introduce the four families with pictures. Include a local instrument: the dutar is a string "
                 "instrument, the doira is a percussion instrument.",
-        practice="Student's Book CLIL activities; pupils sort instruments into four columns.",
+        practice="Student's Book CLIL activities; students sort instruments into four columns.",
         produce="**Make a drum**: from recycled card (Student's Book project); decorate and play a rhythm.",
         wrap="Each group plays a rhythm; the class says 'It's a percussion instrument.' Homework.",
-        homework="Find one instrument at home or in your neighbourhood and say its type.",
+        homework="Find one instrument at home or in your neighborhood and say its type.",
         assessment="Sort instruments correctly (4 points) and explain one in English.",
         tips=["Mahalliy cholg'ular: dutar (string), doira (percussion), nay (woodwind), karnay (brass). Bu darsni "
               "o'zbek madaniyati bilan bog'lash tushunishni oshiradi.",
@@ -178,8 +178,8 @@ LESSONS = [
         interactions=("T-Ss", "T-Ss", "T-Ss", "S / Ss-Ss", "G", "T-Ss"),
     ),
     Lesson.std(
-        title="Unit 6 revision and quiz",
-        focus="Revision of Unit 6; quick quiz",
+        title="Unit 6 review and quiz",
+        focus="Review of Unit 6; quick quiz",
         aims=["use hobby phrases, does / doesn't and time phrases accurately", "complete the unit quiz"],
         language=["All language from Unit 6"],
         materials=["Quiz (worksheets/quiz.pdf)", "Bingo (games/bingo.pdf)", "Flashcards"],
@@ -191,7 +191,7 @@ LESSONS = [
         wrap="Go over common mistakes; praise progress.",
         homework="Correct your quiz mistakes.",
         assessment="Mark with the answer keys and record results.",
-        tips=[GRADE_TIP_20, "Weak pupils: read instructions aloud. Extension: write a timetable for a busy friend."],
+        tips=[GRADE_TIP_20, "Weak students: read instructions aloud. Extension: write a schedule for a busy friend."],
         interactions=("T-Ss", "Ss-Ss", "T-Ss", "Ss-Ss", "S", "T-Ss"),
     ),
     Lesson.std(
@@ -200,15 +200,15 @@ LESSONS = [
         aims=["recycle Unit 5 and Unit 6 language in games and puzzles",
               "show confidence with likes, does / doesn't and hobbies"],
         language=["Unit 5 and Unit 6 language"],
-        materials=["Student's Book Review (Units 5 and 6) + audio", "Activity Book review pages",
+        materials=["Student's Book Review (Units 5 and 6) + audio", "Workbook review pages",
                    "Flashcards from both units"],
         greeting="Greet the class and explain that today is a mixed review with word puzzles.",
         warmup="**Two-unit quiz show**: two teams answer quick questions from both units.",
         present="Go through the Review page: backwards-word puzzles and the matching tasks. Model one item.",
-        practice="Pupils do the Review activities in pairs (listening / word puzzles / speaking). Monitor and note errors.",
-        produce="Pupils make their own backwards-word puzzle for a friend (like 'yalp llabyellov') and swap.",
-        wrap="Pupils write one thing they can do well and one thing to practise. Homework.",
-        homework="Activity Book review pages.",
+        practice="Students do the Review activities in pairs (listening / word puzzles / speaking). Monitor and note errors.",
+        produce="Students make their own backwards-word puzzle for a friend (like 'yalp llabyellov') and swap.",
+        wrap="Students write one thing they can do well and one thing to practice. Homework.",
+        homework="Workbook review pages.",
         assessment="Observation checklist: -s endings, does / doesn't, hobbies.",
         tips=["Bu dars 3-chorak nazorat ishiga tayyorgarlik sifatida ham ishlaydi.",
               "Support: give a list of words to hide. Extension: add a sentence to each puzzle."],
@@ -219,20 +219,20 @@ LESSONS = [
 A = [
     PicLabel("Look and write the phrases.", items=[
         ("piano", "play the piano"), ("guitar", "play the guitar"), ("recorder", "play the recorder"),
-        ("models", "make models"), ("films", "make films"), ("karate", "do karate"),
-        ("gymnastics", "do gymnastics"), ("table tennis", "play table tennis")], cols=4),
+        ("models", "make models"), ("movies", "make movies"), ("karate", "do karate"),
+        ("gymnastics", "do gymnastics"), ("ping-pong", "play ping-pong")], cols=4),
     Match("Match the English phrases to the Uzbek phrases.", pairs=[
         ("play the piano", "pianino chalmoq"), ("do karate", "karate bilan shug'ullanmoq"),
         ("make models", "maketlar yasamoq"), ("play volleyball", "voleybol o'ynamoq"),
-        ("play the guitar", "gitara chalmoq"), ("make films", "kino suratga olmoq")], seed=71),
+        ("play the guitar", "gitara chalmoq"), ("make movies", "kino suratga olmoq")], seed=71),
     Gaps("Look and complete the words.", items=[
         ("piano", "piano"), ("guitar", "guitar"), ("karate", "karate"), ("gymnastics", "gymnastics"),
         ("volleyball", "volleyball"), ("badminton", "badminton")]),
-    WordSearch("Find the hobby words.", words=["piano", "guitar", "recorder", "models", "films", "karate",
-                                                "gymnastics", "tennis", "badminton", "volleyball"], size=12, seed=12),
+    WordSearch("Find the hobby words.", words=["piano", "guitar", "recorder", "models", "movies", "karate",
+                                                "gymnastics", "pingpong", "badminton", "volleyball"], size=12, seed=12),
     Circle("Circle the correct verb: play, do or make.", items=[
         "I {*play|do} the piano.", "She {*does|plays} karate.", "We {*make|play} models.",
-        "They {*play|make} volleyball.", "He {*does|makes} gymnastics.", "I {*make|do} films."]),
+        "They {*play|make} volleyball.", "He {*does|makes} gymnastics.", "I {*make|do} movies."]),
     Draw("Draw your hobby.", prompts=["My hobby: ________"]),
 ]
 
@@ -247,22 +247,22 @@ B = [
     Fill("Complete the sentences.", items=[
         "{Does} Dilshod play tennis on Mondays? — Yes, he {does}.",
         "{Does} Malika play volleyball in the morning? — No, she {doesn't}.",
-        "Bobur {makes} films on Mondays.",
+        "Bobur {makes} movies on Mondays.",
         "She {plays} the guitar in the morning."], extra_words=["do"]),
     Unscramble("Put the words in the right order.", items=[
         "She does karate on Sundays.", "Does she do gymnastics?", "Yes, she does.", "He plays the piano in the evening."]),
     Reading("Read and answer.", title="Dilshod's week", text=(
         "Meet Dilshod. He is nine years old and he wants to be a swimmer. Dilshod goes to a swimming club on "
         "Mondays and Wednesdays after school. He does karate on Fridays.\n\n"
-        "On Saturdays he plays table tennis with his brother. Dilshod has a healthy diet. His favourite drink "
+        "On Saturdays he plays ping-pong with his brother. Dilshod has a healthy diet. His favorite drink "
         "is apple juice!"), questions=[
         ("What club does Dilshod go to?", "A swimming club."),
         ("Does he do karate on Fridays?", "Yes, he does."),
-        ("Does he play table tennis on Sundays?", "No, he doesn't. He plays on Saturdays.")],
+        ("Does he play ping-pong on Sundays?", "No, he doesn't. He plays on Saturdays.")],
         lines_per_answer=1),
-    WriteAbout("Write about your favourite sport or hobby.", frames=[
-        "My favourite sport is ___ .", "I play / do ___ on ___ .", "I like it because ___ ."], lines=3,
-        model=["My favourite sport is volleyball. I play volleyball on Saturdays. I like it because it is fun."]),
+    WriteAbout("Write about your favorite sport or hobby.", frames=[
+        "My favorite sport is ___ .", "I play / do ___ on ___ .", "I like it because ___ ."], lines=3,
+        model=["My favorite sport is volleyball. I play volleyball on Saturdays. I like it because it is fun."]),
 ]
 
 QUIZ = [
@@ -274,8 +274,8 @@ QUIZ = [
     Section("Part 2 · Grammar", [
         Circle("Circle the correct word.", items=[
             "She {*does|do} gymnastics on Sundays.",
-            "Tom {*plays|play} table tennis after school.",
-            "{*Does|Do} he make films? — No, he doesn't.",
+            "Tom {*plays|play} ping-pong after school.",
+            "{*Does|Do} he make movies? — No, he doesn't.",
             "Yes, she {*does|do}."]),
         Fill("Complete the sentences.", items=[
             "She {does} karate in the evening.",

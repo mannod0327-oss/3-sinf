@@ -1,6 +1,6 @@
 # Guess What! — 3-sinf (Grade 3) materiallari
 
-Cambridge **Guess What! Level 3** (Reed, Koustaff, Bentley) darsligi uchun **original** o'qituvchi materiallari: dars rejalari, ish varaqlari, kalitlar, o'yinlar va chorak nazorat ishlari. Darslik matnlari, rasmlari va audiolari bu yerda **yo'q** — ular sizdagi nashrdan olinadi.
+Cambridge **Guess What! Level 3** (**American Edition**) darsligi uchun **original** o'qituvchi materiallari: dars rejalari, ish varaqlari, kalitlar, o'yinlar va chorak nazorat ishlari. Darslik matnlari, rasmlari va audiolari bu yerda **yo'q** — ular sizdagi nashrdan olinadi.
 
 ## Nimalar bor
 
@@ -37,6 +37,7 @@ Har bir unit papkasida: dars rejalari (Markdown + Word), 2 ta ish varag'i, quick
 
 ## Eslatmalar
 
-- Dars rejalaridagi **Student's Book / Activity Book** sahifalari Cambridge nashri mazmuniga mos; sahifa raqamlari nashrlarda farq qilgani uchun ko'rsatilmagan.
+- Dars rejalaridagi **Student's Book / Workbook** sahifalari Cambridge nashri mazmuniga mos; sahifa raqamlari nashrlarda farq qilgani uchun ko'rsatilmagan.
+- **Amerikacha nashr:** imlo va so'zlar amerikacha (*color, favorite, mom, soccer, vacation, math, fries, ocean*), Unit 3 grammatikasi *Do we have …?*. Unit mavzulari, lug'at va grammatika Drive'dagi Word Cards va rasmiy unit testlari bilan solishtirib tekshirilgan. *Story value / Talk time / Say it! / CLIL* qatorlari britaniya nashri mundarijasidan olingan — sizning nashringizda farq qilishi mumkin, Student's Book bilan solishtiring.
 - Yillik reja 68 soatga (haftasiga 2 soat) mo'ljallangan; maktabingiz jadvaliga moslab o'zgartiring.
 - Rasmlar — Twemoji (CC-BY 4.0), shrift — Andika (SIL OFL). Batafsil: [../NOTICE.md](../NOTICE.md).

@@ -25,9 +25,9 @@ EXTRA = [
 INFO = UnitInfo(
     number=0, title="Welcome", topic="The course friends; questions; months of the year and birthdays",
     vocabulary="Lucas, Max, Lily, Tom, Anna; the twelve months",
-    grammar=["Revision of questions (What's your name? How old are you? Where are you from?)",
+    grammar=["Review of questions (What's your name? How old are you? Where are you from?)",
              "When's your birthday? It's in (December)."],
-    skills="Reading: Have you got an email penpal?",
+    skills="Reading: Do you have an email penpal?",
     phonics="a / ai — snakes, tails",
     story_value="Work together",
     talk_time="Asking for permission",
@@ -37,25 +37,25 @@ INFO = UnitInfo(
 LESSONS = [
     Lesson.std(
         title="Meet the friends",
-        focus="The five course characters; revision of personal questions",
+        focus="The five course characters; review of personal questions",
         aims=["introduce themselves: My name's … I'm … years old. I'm from …",
               "ask and answer: What's your name? How old are you? Where are you from?"],
         language=["What's your name? — My name's … · How old are you? — I'm … · Where are you from? — I'm from …",
                   "Lucas, Max, Lily, Tom, Anna"],
         materials=["Student's Book Welcome pages + audio", "name labels", "character pictures (Lucas, Max, Lily, Tom, Anna)"],
-        greeting="Greet the class warmly: 'Welcome to Grade 3!' Give each pupil a name label.",
+        greeting="Greet the class warmly: 'Welcome to Grade 3!' Give each student a name label.",
         warmup="**Name ball**: throw a soft ball; the catcher says 'My name's …' then throws to someone else.",
         present="Introduce the five friends with the Student's Book pictures: 'This is Lucas. He's nine. He's from …' "
-                "Pupils listen and point to the characters. Teach the three questions with gestures.",
+                "Students listen and point to the characters. Teach the three questions with gestures.",
         practice="Pairs: ask and answer the three questions. Worksheet B exercises A–B.",
-        produce="**Class interview**: pupils walk around and fill a card: name, age, town for three classmates.",
+        produce="**Class interview**: students walk around and fill a card: name, age, town for three classmates.",
         wrap="Report: 'Bobur is nine. He's from Tashkent.' Homework.",
         homework="Write three sentences about yourself.",
-        assessment="Listen to each pupil introduce themselves; note those who need support.",
+        assessment="Listen to each student introduce themselves; note those who need support.",
         tips=["Yangi o'quv yilida ismlar va yoshni so'rash — eng yaxshi muloqot boshlanishi. Hammani gapirishga "
               "undang.",
               "'I'm from Tashkent' — 'Men Toshkentdanman'. 'from' (-dan) ni albatta qo'shish kerak.",
-              "Support: give answer frames. Extension: add 'I've got a brother.'"],
+              "Support: give answer frames. Extension: add 'I have a brother.'"],
     ),
     Lesson.std(
         title="Months of the year",
@@ -64,16 +64,16 @@ LESSONS = [
         language=["January, February, March, April, May, June, July, August, September, October, November, December"],
         materials=["Flashcards (one month each)", "Student's Book Welcome pages + audio", "Worksheet A exercises A–C"],
         greeting="Ask 'What day is it? What month is it?' Write the month on the board.",
-        warmup="**Human year**: twelve pupils hold the month cards and stand in a circle in the wrong places; the class "
+        warmup="**Human year**: twelve students hold the month cards and stand in a circle in the wrong places; the class "
                "tells them where to go.",
-        present="Teach the months with the flashcards in groups of four (winter / spring / summer / autumn). Use the "
+        present="Teach the months with the flashcards in groups of four (winter / spring / summer / fall). Use the "
                 "pictures as memory aids. Chant them with a rhythm.",
         practice="Worksheet A exercises A (order), B (match with Uzbek) and C (complete the words).",
-        produce="**Line up by birthday**: pupils ask 'When's your birthday?' and line up from January to December "
+        produce="**Line up by birthday**: students ask 'When's your birthday?' and line up from January to December "
                 "without speaking Uzbek.",
         wrap="Whole-class chant of the months with actions. Homework.",
         homework="Learn to spell the months. Draw your birthday cake (Worksheet A exercise F).",
-        assessment="Ask five pupils 'What month is after …?'",
+        assessment="Ask five students 'What month is after …?'",
         tips=["Oylar bosh harf bilan yoziladi: March (o'zbek tilida 'mart' kichik harf).",
               "Qiyin so'zlar: February (Feb-ru-ary), August, September. Bo'g'inlarga bo'lib mashq qiling.",
               "Support: use the picture cards. Extension: name the season for each month."],
@@ -86,10 +86,10 @@ LESSONS = [
         language=["When's your birthday? — It's in (December).", "penpal · email · Dear … / Hi …"],
         materials=["Student's Book Welcome pages + audio", "Worksheet B exercises C–E", "birthday cards or paper"],
         greeting="Sing or chant 'Happy birthday'. Ask 'Whose birthday is in January?'",
-        warmup="**Birthday circle**: pupils stand in a circle; you call a month and those born in it swap places.",
-        present="Model the question and answer with two pupils, then write it on the board with **in** + month highlighted.",
+        warmup="**Birthday circle**: students stand in a circle; you call a month and those born in it swap places.",
+        present="Model the question and answer with two students, then write it on the board with **in** + month highlighted.",
         practice="Pairs: class survey of birthdays. Worksheet B exercises C (unscramble) and D (read the penpal email).",
-        produce="Writing: pupils write an email to a penpal (Worksheet B exercise E) and swap with a partner.",
+        produce="Writing: students write an email to a penpal (Worksheet B exercise E) and swap with a partner.",
         wrap="Class graph of birthdays by month; 'Most birthdays are in …'. Homework.",
         homework="Finish your email; ask two family members when their birthdays are.",
         assessment="Collect five emails: check My name is / I'm / It's in and capital letters.",
@@ -108,16 +108,16 @@ LESSONS = [
         language=["Can I (open the window), please? — Yes, you can. / Sorry, you can't.",
                   "Sound: a / ai → /eɪ/ (snakes, tails)", "landscape · mountains · river · trees · sky"],
         materials=["Student's Book story + audio + Say it! page", "Student's Book CLIL page", "paper and crayons"],
-        greeting="Ask two pupils to carry a big box together: 'Can you do it alone? Let's work together!'",
+        greeting="Ask two students to carry a big box together: 'Can you do it alone? Let's work together!'",
         warmup="**Group puzzle**: each group builds a simple jigsaw; the fastest group says what helped them.",
         present="Story: predict from pictures, listen, answer 'Who works together? What happens?' Talk time: model the "
-                "permission dialogue with two pupils; practise in pairs. Say it!: listen and repeat /eɪ/.",
+                "permission dialogue with two students; practice in pairs. Say it!: listen and repeat /eɪ/.",
         practice="Art (CLIL): look at the landscape painting in the Student's Book and name what you can see: 'I can see "
-                 "mountains.' Pupils complete a simple table: Foreground | Background.",
-        produce="**Group landscape**: each group draws one large landscape, each pupil adds one thing and asks "
+                 "mountains.' Students complete a simple table: Foreground | Background.",
+        produce="**Group landscape**: each group draws one large landscape, each student adds one thing and asks "
                 "permission ('Can I use the green pencil, please?').",
         wrap="Groups present their painting: 'We can see a river and some trees.' Homework.",
-        homework="Activity Book Welcome pages; draw a landscape you know in Uzbekistan.",
+        homework="Workbook Welcome pages; draw a landscape you know in Uzbekistan.",
         assessment="Listen for permission phrases and please / thank you.",
         tips=["'Can I …?' — ruxsat so'rash. 'May I' ham to'g'ri, ammo bu sinfda 'Can I' yetarli.",
               "/eɪ/ diftongi o'zbek tilida yo'q — 'ey' ga yaqin; 'snake' ni 'sneyk' deb mashq qiling.",
@@ -163,7 +163,7 @@ B = [
         "When's your birthday?", "It's in December.", "Can I open the window?", "Yes, you can."]),
     Reading("Read and answer.", title="An email from Max", text=(
         "Hi! My name is Max. I'm nine years old. I'm from Scotland. My birthday is in July.\n\n"
-        "I've got a dog and a rabbit. I like football and swimming. Have you got an email penpal? "
+        "I have a dog and a rabbit. I like soccer and swimming. Do you have an email penpal? "
         "Please write to me! Max"), questions=[
         ("How old is Max?", "He's nine."),
         ("Where is he from?", "He's from Scotland."),
@@ -193,7 +193,7 @@ QUIZ = [
     Section("Part 3 · Reading and writing", [
         Reading("Read and answer.", title="Anna's email", text=(
             "Hello! My name is Anna. I'm ten years old. I'm from London. My birthday is in December. "
-            "I've got a cat."), questions=[
+            "I have a cat."), questions=[
             ("How old is Anna?", "She's ten."),
             ("Where is she from?", "She's from London."),
             ("When's her birthday?", "It's in December.")]),

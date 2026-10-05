@@ -4,7 +4,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from .exercises import Section, sheet, total_points
-from .model import Bullets, Heading, Para, Spacer, Table
+from .model import Bullets, Heading, Para, Spacer, Table, student as student_word
 from .render_docx import render_docx
 from .render_pdf import render_pdf
 
@@ -37,7 +37,7 @@ def build_progress_tests(out: Path, badge: str, tests: list[dict]) -> list[Path]
                                             for s in t["sections"]] + [["**Total**", "**30**"]]
         key.blocks = [
             Heading("How to use this key", 2),
-            Bullets(["Time: 30 minutes. Pupils need a pencil.",
+            Bullets([f"Time: 30 minutes. {student_word(plural=True, cap=True)} need a pencil.",
                      "1 point per correct item. Accept small spelling slips only if the word is recognisable and "
                      "the grammar is right.",
                      "Writing (4 points): use the rubric below."]),

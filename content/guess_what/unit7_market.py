@@ -46,7 +46,7 @@ LESSONS = [
         language=["lemons, limes, watermelons, coconuts, grapes, mangoes, pineapples, pears, tomatoes, onions"],
         materials=["Flashcards or real fruit", "Student's Book Vocabulary page + audio", "Worksheet A exercises A–B"],
         greeting="Bring a bag with fruit. Ask 'What's in my bag?' and write **At the market** on the board.",
-        warmup="**Feel and guess**: a pupil puts a hand in the bag and guesses the fruit by touch; class helps with "
+        warmup="**Feel and guess**: a student puts a hand in the bag and guesses the fruit by touch; class helps with "
                "Uzbek words.",
         present="Present the ten words with flashcards or real items. Stress the plural: 'One lemon. Two lemons.' Note the "
                 "spelling: tomato → tomatoes, mango → mangoes. Student's Book: *Listen and point*, *Listen, point "
@@ -54,13 +54,13 @@ LESSONS = [
         practice="Worksheet A exercises A (label) and B (match singular and plural). Play **What's missing?**",
         produce="**Market stall**: pairs build a stall on the desk with cards and sell: 'Two mangoes, please.' — 'Here you "
                 "are.'",
-        wrap="Teacher holds up a card; pupils say the plural word. Homework.",
-        homework="Learn the words and draw your favourite fruit stall (Worksheet A exercise F).",
-        assessment="Point at cards for 5 pupils; note plural errors.",
+        wrap="Teacher holds up a card; students say the plural word. Homework.",
+        homework="Learn the words and draw your favorite fruit stall (Worksheet A exercise F).",
+        assessment="Point at cards for 5 students; note plural errors.",
         tips=["O'zbek bozorida ('bozor') bu mevalarning ko'pi bor — mahalliy nomlar bilan bog'lang: uzum, olma, nok, "
               "tarvuz.",
               "Ko'plik: -o bilan tugaydigan so'zlar (tomato, mango, potato) → -es. Bular istisno; jadval qilib yozing.",
-              "Support: flashcards with pictures only. Extension: pupils write a colour next to each fruit."],
+              "Support: flashcards with pictures only. Extension: students write a color next to each fruit."],
     ),
     Lesson.std(
         title="There are lots of grapes",
@@ -70,20 +70,20 @@ LESSONS = [
         language=["There (are lots of) (grapes). There (are some) (tomatoes)."],
         materials=["Flashcards in groups on the board (8 grapes, 3 tomatoes)", "Student's Book Grammar page 1",
                    "Worksheet B exercise A"],
-        greeting="Ask 'How many pupils are there in our class?' and count together.",
-        warmup="**How many?** Show a card with a number of dots or fruit for three seconds; pupils guess 'lots' or 'some'.",
+        greeting="Ask 'How many students are there in our class?' and count together.",
+        warmup="**How many?** Show a card with a number of dots or fruit for three seconds; students guess 'lots' or 'some'.",
         present="Draw a stall on the board: 10 grapes, 3 tomatoes. Say: 'There are lots of grapes. There are some "
                 "tomatoes.' Write the frame: There are lots of / some + plural noun. Drill with changing pictures.",
-        practice="Student's Book Grammar activities (listen and tick). Worksheet B exercise A (circle).",
-        produce="**Stall descriptions**: pupils draw their own stall with different amounts and describe it to a partner, who "
+        practice="Student's Book Grammar activities (listen and check). Worksheet B exercise A (circle).",
+        produce="**Stall descriptions**: students draw their own stall with different amounts and describe it to a partner, who "
                 "draws what they hear.",
-        wrap="Quick-fire: show a picture; pupils say 'There are lots of …' or 'some …'. Homework.",
+        wrap="Quick-fire: show a picture; students say 'There are lots of …' or 'some …'. Homework.",
         homework="Workbook grammar page; describe your kitchen: 'There are some …'",
         assessment="Check are + plural and lots of / some.",
         tips=["'There are' + ko'plik. O'zbekcha 'bor' bir xil, lekin inglizchada **is** (birlik) va **are** (ko'plik) "
               "farqlanadi.",
               "'lots of' = 'a lot of' (ko'p); suhbatda juda ko'p ishlatiladi.",
-              "Support: gesture for lots (arms wide) and some (two fingers). Extension: add colours."],
+              "Support: gesture for lots (arms wide) and some (two fingers). Extension: add colors."],
     ),
     Lesson.std(
         title="Are there any pears?",
@@ -93,19 +93,19 @@ LESSONS = [
         language=["There (aren't any) (limes).", "Are there any (pears)? — Yes, there are. / No, there aren't."],
         materials=["A stall picture with some items missing", "Chant from the audio", "Worksheet B exercises B–D"],
         greeting="Show an empty basket: 'Are there any apples?' — 'No, there aren't.'",
-        warmup="**Fruit basket**: show a covered picture; pupils guess with 'Are there any pears?' (you answer yes / no).",
+        warmup="**Fruit basket**: show a covered picture; students guess with 'Are there any pears?' (you answer yes / no).",
         present="Show a stall with only grapes and onions. Model: 'Are there any pears? No, there aren't. There aren't any "
-                "pears.' Write the pattern and colour any. Compare some (positive) and any (negative and "
+                "pears.' Write the pattern and color any. Compare some (positive) and any (negative and "
                 "questions).",
         practice="Play the chant / Student's Book Grammar audio. Worksheet B exercises B (read and answer), C (fill in) and "
                  "D (unscramble).",
         produce="**Spot the difference**: pairs have two stall pictures; they ask 'Are there any …?' to find five "
                 "differences.",
-        wrap="Teacher asks about a picture; pupils answer with full short answers. Homework.",
-        homework="Activity Book grammar page; write three sentences about a picture of a shop.",
+        wrap="Teacher asks about a picture; students answer with full short answers. Homework.",
+        homework="Workbook grammar page; write three sentences about a picture of a shop.",
         assessment="Check some / any and short answers.",
         tips=["**some** — darak gap; **any** — inkor va so'roq gap. Bu qoida o'zbek tilida yo'q; rangli qilib yozing.",
-              "'aren't' /ɑːnt/ — 'r' aytilmaydi (Britaniya). 'There aren't any' uch so'zni bir ovozda o'qishni mashq qiling.",
+              "'aren't' /ɑrnt/ — amerikacha talaffuzda 'r' aytiladi. 'There aren't any' uch so'zni bir ovozda o'qishni mashq qiling.",
               "Support: sentence frames. Extension: add 'but there are some …'."],
         interactions=("T-Ss", "T-Ss", "T-Ss", "S / Ss-Ss", "Ss-Ss", "T-Ss"),
     ),
@@ -116,11 +116,11 @@ LESSONS = [
         language=["smoothie · milk · ice · blend", "There are … / Put … in the glass."],
         materials=["Student's Book Listening page + audio", "Worksheet B exercise E", "recipe cards"],
         greeting="Ask 'Do you like smoothies?' and count hands.",
-        warmup="**Design a smoothie**: pupils call out fruit; write a class smoothie on the board.",
-        present="Pre-listening: look at the pictures and name the fruit. Play the audio twice: first for gist, then to tick "
+        warmup="**Design a smoothie**: students call out fruit; write a class smoothie on the board.",
+        present="Pre-listening: look at the pictures and name the fruit. Play the audio twice: first for gist, then to check "
                 "the ingredients.",
-        practice="Check in pairs, then class. Pupils read the market text (Worksheet B exercise B) to find what there is.",
-        produce="Writing: pupils write a short recipe: 'My smoothie: two bananas, some grapes…'. Volunteers read aloud.",
+        practice="Check in pairs, then class. Students read the market text (Worksheet B exercise B) to find what there is.",
+        produce="Writing: students write a short recipe: 'My smoothie: two bananas, some grapes…'. Volunteers read aloud.",
         wrap="Class votes for the best smoothie recipe. Homework.",
         homework="Finish the recipe; draw the smoothie.",
         assessment="Collect five recipes; check plurals and some / lots of.",
@@ -133,22 +133,22 @@ LESSONS = [
         focus="Story value (reuse old things), Talk time (making choices), Say it! ch",
         aims=["follow the story and say how to reuse old things",
               "make a choice: Would you like a mango or a pear? — A mango, please.",
-              "pronounce /tʃ/ in chipmunk, chips, cheese, chair"],
-        language=["Would you like a (mango) or a (pear)? — A (mango), please.", "Sound: ch → /tʃ/ (chipmunks, chips)"],
+              "pronounce /tʃ/ in chipmunk, fries, cheese, chair"],
+        language=["Would you like a (mango) or a (pear)? — A (mango), please.", "Sound: ch → /tʃ/ (chipmunks, fries)"],
         materials=["Student's Book story + audio", "Student's Book Say it! page", "real items (old jars, boxes)"],
-        greeting="Show an old jar: 'Is it rubbish? What can we do?' Elicit ideas (pencil pot, flower pot).",
-        warmup="**Rubbish or treasure?** Show items; pupils say how to reuse them.",
+        greeting="Show an old jar: 'Is it trash? What can we do?' Elicit ideas (pencil pot, flower pot).",
+        warmup="**Rubbish or treasure?** Show items; students say how to reuse them.",
         present="Story: predict from pictures, listen, answer 'What do they reuse? Why?' Discuss in Uzbek, then conclude "
                 "in English: 'Reuse old things.'",
-        practice="Talk time: model 'Would you like a mango or a pear?'; practise in pairs with fruit cards. Say it!: listen, "
+        practice="Talk time: model 'Would you like a mango or a pear?'; practice in pairs with fruit cards. Say it!: listen, "
                  "repeat, find more ch words.",
         produce="**Fruit shop role-play**: pairs — shopkeeper offers two choices; customer chooses with 'please' and "
                 "'thank you'.",
         wrap="Chant the Say it! tongue twister. Homework.",
-        homework="Activity Book story page; reuse one item at home and draw it.",
+        homework="Workbook story page; reuse one item at home and draw it.",
         assessment="Listen for correct choices and polite language in the role-play.",
         tips=["'Would you like…?' — 'Xohlaysizmi?' Muloyim taklif; 'Do you want…?' dan ko'ra odobliroq.",
-              "/tʃ/ o'zbekcha 'ch' ga o'xshash — oson tovush; ammo 'chair' ni 'cher' emas /tʃeə/ deb mashq qiling."],
+              "/tʃ/ o'zbekcha 'ch' ga o'xshash — oson tovush; ammo 'chair' /tʃer/ — 'ch' + 'er' (qisqa 'e' va 'r') deb mashq qiling."],
         interactions=("T-Ss", "T-Ss", "T-Ss", "Ss-Ss", "Ss-Ss", "T-Ss"),
     ),
     Lesson.std(
@@ -159,12 +159,12 @@ LESSONS = [
         language=["roots · stem · leaves · fruit · seeds", "We eat the (roots) of a (carrot)."],
         materials=["Student's Book CLIL pages", "real carrot, celery or cabbage, apple, rice", "a plant diagram"],
         greeting="Show a carrot: 'Is this a fruit or a vegetable? Which part of the plant is it?'",
-        warmup="**Which part?** Show real items; pupils point to the diagram part.",
+        warmup="**Which part?** Show real items; students point to the diagram part.",
         present="Teach the plant parts with the diagram. Sort items: carrot (root), celery (stem), cabbage (leaves), "
                 "apple (fruit), rice (seeds).",
-        practice="Student's Book CLIL activities; pupils complete a two-column table: Plant | Part we eat.",
-        produce="**Plant plate**: pupils draw a plate with a meal using six parts of plants and label them.",
-        wrap="Pupils read their plate labels to a partner. Homework.",
+        practice="Student's Book CLIL activities; students complete a two-column table: Plant | Part we eat.",
+        produce="**Plant plate**: students draw a plate with a meal using six parts of plants and label them.",
+        wrap="Students read their plate labels to a partner. Homework.",
         homework="Find three vegetables at home and say which part we eat.",
         assessment="Sorting table (6 items) and plate rubric: labels (1), accuracy (1), neatness (1).",
         tips=["Mahalliy misollar: sabzi (root), ko'k piyoz (leaves), olma (fruit), guruch (seed) — palov mavzusi bolalarga "
@@ -173,8 +173,8 @@ LESSONS = [
         interactions=("T-Ss", "T-Ss", "T-Ss", "S / Ss-Ss", "S", "Ss-Ss"),
     ),
     Lesson.std(
-        title="Unit 7 revision and quiz",
-        focus="Revision of Unit 7; quick quiz",
+        title="Unit 7 review and quiz",
+        focus="Review of Unit 7; quick quiz",
         aims=["use fruit vocabulary and There are / aren't any accurately", "complete the unit quiz"],
         language=["All language from Unit 7"],
         materials=["Quiz (worksheets/quiz.pdf)", "Bingo (games/bingo.pdf)", "Flashcards"],
@@ -186,7 +186,7 @@ LESSONS = [
         wrap="Go over common mistakes; praise progress.",
         homework="Correct your quiz mistakes.",
         assessment="Mark with the answer keys and record results.",
-        tips=[GRADE_TIP_20, "Weak pupils: read instructions aloud. Extension: write a dialogue at a fruit stall."],
+        tips=[GRADE_TIP_20, "Weak students: read instructions aloud. Extension: write a dialogue at a fruit stall."],
         interactions=("T-Ss", "Ss-Ss", "T-Ss", "Ss-Ss", "S", "T-Ss"),
     ),
 ]
@@ -219,12 +219,12 @@ B = [
         "Yes, there {*are|is}.",
         "No, there {*aren't|isn't}."]),
     Reading("Read and answer.", title="At the market", text=(
-        "It is Saturday. Malika and her mum are at the market. There are lots of tomatoes and onions. "
+        "It is Saturday. Malika and her mom are at the market. There are lots of tomatoes and onions. "
         "There are some pears and grapes. There aren't any mangoes today.\n\n"
-        "Malika likes pineapples, but there aren't any. Mum buys tomatoes, pears and lemons."), questions=[
+        "Malika likes pineapples, but there aren't any. Mom buys tomatoes, pears and lemons."), questions=[
         ("Are there any mangoes?", "No, there aren't."),
         ("Are there any pears?", "Yes, there are."),
-        ("What does Mum buy?", "Tomatoes, pears and lemons.")]),
+        ("What does Mom buy?", "Tomatoes, pears and lemons.")]),
     Fill("Complete the sentences.", items=[
         "There {are} lots of grapes.",
         "There {aren't} any limes.",
@@ -259,7 +259,7 @@ QUIZ = [
             "There aren't any grapes today. She has two baskets of lemons."), questions=[
             ("Are there any pineapples?", "Yes, there are."),
             ("Are there any grapes?", "No, there aren't."),
-            ("What has she got in two baskets?", "Lemons.")]),
+            ("What does she have in two baskets?", "Lemons.")]),
         Unscramble("Put the words in the right order.", items=[
             "There are some pears.", "Are there any mangoes?", "There aren't any limes."])]),
 ]

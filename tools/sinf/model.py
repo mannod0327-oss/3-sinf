@@ -18,6 +18,15 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Union
 
+# Wording that differs between the British and American editions of a course. ``build.py`` sets it from
+# the ``WORDS`` dict of the pack being built (Guess What! is American: "student"; the grammar packs say "pupil").
+WORDS: dict[str, str] = {"student": "pupil"}
+
+
+def student(*, plural: bool = False, cap: bool = False) -> str:
+    word = WORDS["student"] + ("s" if plural else "")
+    return word[0].upper() + word[1:] if cap else word
+
 Block = Union[
     "Heading", "Para", "Bullets", "Table", "Box", "Lines", "Spacer",
     "PageBreak", "Group", "Rule",

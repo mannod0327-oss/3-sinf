@@ -17,7 +17,7 @@
 
 ## Unit at a glance
 
-- **Vocabulary:** tree, leaf, caterpillar, rabbit, butterfly, flower, grass, tortoise/turtle, guinea pig, snail
+- **Vocabulary:** tree, leaf, caterpillar, rabbit, butterfly, flower, grass, turtle, guinea pig, snail
 - **Grammar:** Possessive adjectives: (His) pet is (big). (Our) pet is (orange).
 - **Grammar:** What's that? It's a (snake). What are those? They're (flowers).
 - **Skills:** Listening: What can you see at the zoo?
@@ -34,7 +34,7 @@
 4. At the zoo — *Skills: Listening and writing — What can you see at the zoo?*
 5. Listen to each other — *Story value (respect and listen to others), Talk time (asking to borrow something), Say it! ee / ea*
 6. Habitats — *CLIL Science — What types of habitats are there?*
-7. Unit 1 revision and quiz — *Revision of Unit 1 language; quick quiz*
+7. Unit 1 review and quiz — *Review of Unit 1 language; quick quiz*
 
 ## Vocabulary (English – O'zbekcha)
 
@@ -47,6 +47,6 @@
 | 🦋 | **butterfly** | kapalak |
 | 🌸 | **flower** | gul |
 | 🌿 | **grass** | o'tloq, maysa |
-| 🐢 | **tortoise / turtle** | toshbaqa |
+| 🐢 | **turtle** | toshbaqa |
 |  | **guinea pig** | dengiz cho'chqasi |
 | 🐌 | **snail** | salyangoz |

@@ -5,7 +5,7 @@ import string
 from random import Random
 
 from . import icons
-from .model import Block, Box, Heading, PageBreak, Para, Spacer, Table
+from .model import Block, Box, Heading, PageBreak, Para, Spacer, Table, student
 
 # right, down, down-right: easy enough for Grade 3 pupils
 DIRECTIONS = [(0, 1), (1, 0), (1, 1)]
@@ -132,7 +132,7 @@ def bingo_blocks(title: str, vocab: list[tuple[str, str | None]], n_cards: int =
     blocks.append(Table([[_cell(w, icon_of.get(w), 26) for w in words[j:j + 4]]
                          + [""] * (4 - len(words[j:j + 4])) for j in range(0, len(words), 4)],
                         widths=[1, 1, 1, 1], style="cards", align="center", size=11, row_height=24))
-    blocks.append(Para("How to play: pupils choose a card. Call a word (or say its sentence). Pupils who have it "
+    blocks.append(Para(f"How to play: {student(plural=True)} choose a card. Call a word (or say its sentence). {student(plural=True, cap=True)} who have it "
                        "cover it with a counter. First to cover a full line shouts **BINGO!** and reads the "
                        "words back.", "note"))
     return blocks

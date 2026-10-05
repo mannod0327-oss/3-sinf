@@ -24,7 +24,3 @@ Maktabingiz ichki qoidasi boshqacha bo'lsa, chegaralarni o'zgartiring.
 ## Tinglash (Listening) qanday o'tkaziladi
 
 Audio yo'q — matnni o'zingiz o'qiysiz. Kalit PDF ichida har bir mashq ostida qizil katakda **Teacher reads** matni bor. Har bir matnni **ikki marta**, sekin va aniq o'qing; qatorlar orasida qisqa pauza qiling. O'quvchilarga javobni aytib yubormang.
-
-## Nashriyotning tayyor testlari (Drive'da)
-
-Google Drive'dagi `3-sinf nazorat ishlari.zip` — Cambridge'ning o'zining *Guess What! American Edition 3* test to'plami: har bir unit uchun 4 tadan test (Standard 1–2, Extension 1–2), takrorlash testlari, skills testlari va yil yakuniy test; hammasi audio (mp3) va javoblari bilan. Tarkibi: [../../docs/drive-inventory.md](../../docs/drive-inventory.md). Ular mualliflik huquqi ostida, shuning uchun repozitoriyga qo'yilmagan — yuqoridagi chorak testlarim ularga qo'shimcha sifatida mo'ljallangan.

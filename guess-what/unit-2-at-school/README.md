@@ -17,7 +17,7 @@
 
 ## Unit at a glance
 
-- **Vocabulary:** reception, dining hall, library, classroom, Science room, gym, Art room, Music room, playground, sports field
+- **Vocabulary:** reception, cafeteria, library, classroom, Science lab, gym, Art room, Music room, playground, sports field
 - **Grammar:** Where are (they)? (They)'re (on the sports field).
 - **Grammar:** What are (you) doing? (We)'re (playing baseball).
 - **Skills:** Reading: What places can you find in your school?
@@ -34,7 +34,7 @@
 4. Places in our school — *Skills: Reading and writing — What places can you find in your school?*
 5. Keep it clean — *Story value (keep your environment clean), Talk time (offering help), Say it! i / igh*
 6. Recycle it! — *CLIL Science — What materials can we recycle?*
-7. Unit 2 revision and quiz — *Revision of Unit 2; quick quiz*
+7. Unit 2 review and quiz — *Review of Unit 2; quick quiz*
 8. Review: Units 1 and 2 — *Student's Book Review pages for Units 1 and 2*
 
 ## Vocabulary (English – O'zbekcha)
@@ -42,10 +42,10 @@
 | | English | O'zbekcha |
 |---|---|---|
 | 🛎 | **reception** | qabulxona |
-| 🍽 | **dining hall / cafeteria** | oshxona, ovqatlanish zali |
+| 🍽 | **cafeteria** | oshxona, ovqatlanish zali |
 | 📚 | **library** | kutubxona |
 | 🏫 | **classroom** | sinf xonasi |
-| 🔬 | **Science room / lab** | fan (tabiiy fanlar) xonasi |
+| 🔬 | **Science lab** | fan (tabiiy fanlar) xonasi |
 | 🏋 | **gym** | sport zali |
 | 🎨 | **Art room** | tasviriy san'at xonasi |
 | 🎵 | **Music room** | musiqa xonasi |

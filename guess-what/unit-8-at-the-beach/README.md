@@ -17,24 +17,24 @@
 
 ## Unit at a glance
 
-- **Vocabulary:** sun, burger, chips, sunglasses, swimsuit, shorts, towel, shell, sea, sand
+- **Vocabulary:** sun, burger, fries, sunglasses, swimsuit, shorts, towel, shell, ocean, sand
 - **Grammar:** Which (towel) is (theirs)? The (purple) one.
 - **Grammar:** Whose (jacket) is this? It's (mine). Whose (shoes) are these? They're (Sally's).
-- **Skills:** Reading: What do you like doing on holiday?
+- **Skills:** Reading: What do you like doing on vacation?
 - **Say it!:** ph / f — dolphins, fish
 - **Story value:** Appreciate your family and friends
 - **Talk time:** Deciding how to travel
-- **CLIL:** Maths — Are sea animals symmetrical?
+- **CLIL:** Math — Are ocean animals symmetrical?
 
 ## Lessons
 
 1. Beach words — *Vocabulary — ten things at the beach*
 2. Whose is it? — *Grammar 1 — Whose … is this / are these? It's mine. They're Bobur's.*
 3. Which one is theirs? — *Grammar 2 — Which towel is theirs? The purple one.*
-4. What do you like doing on holiday? — *Skills: Reading and writing — a holiday text and a postcard*
+4. What do you like doing on vacation? — *Skills: Reading and writing — a vacation text and a postcard*
 5. Family and friends — *Story value (appreciate your family and friends), Talk time (deciding how to travel), Say it! ph / f*
-6. Symmetry in the sea — *CLIL Maths — Are sea animals symmetrical?*
-7. Unit 8 revision and quiz — *Revision of Unit 8; quick quiz*
+6. Symmetry in the ocean — *CLIL Math — Are ocean animals symmetrical?*
+7. Unit 8 review and quiz — *Review of Unit 8; quick quiz*
 8. Review: Units 7 and 8 and Chants — *Student's Book Review pages for Units 7 and 8; chants*
 
 ## Vocabulary (English – O'zbekcha)
@@ -43,13 +43,13 @@
 |---|---|---|
 | ☀ | **sun** | quyosh |
 | 🍔 | **burger** | burger |
-| 🍟 | **chips / fries** | kartoshka fri |
+| 🍟 | **fries** | kartoshka fri |
 | 🕶 | **sunglasses** | quyoshdan saqlovchi ko'zoynak |
 | 🩱 | **swimsuit** | cho'milish kiyimi |
 | 🩳 | **shorts** | shortik (kalta shim) |
 |  | **towel** | sochiq |
 | 🐚 | **shell** | chig'anoq |
-| 🌊 | **sea / ocean** | dengiz, okean |
+| 🌊 | **ocean** | okean |
 | 🏖 | **sand** | qum |
 
 ### Extra words used in the lessons

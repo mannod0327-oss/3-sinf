@@ -18,9 +18,9 @@
 ## Unit at a glance
 
 - **Vocabulary:** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
-- **Grammar:** Have we got (Science) on (Tuesday)? Yes, we have. / No, we haven't.
-- **Grammar:** What (club) has she got (in the evening)? She's got (swimming club) (in the evening).
-- **Skills:** Listening: Have you got a favourite day of the week?
+- **Grammar:** Do we have (science) on (Tuesday)? Yes, we do. / No, we don't.
+- **Grammar:** What (club) does she have (in the evening)? She has (swimming club) (in the evening).
+- **Skills:** Listening: Do you have a favorite day of the week?
 - **Say it!:** oa / ow — goats, snow
 - **Story value:** Be resourceful
 - **Talk time:** Asking if places are open
@@ -29,12 +29,12 @@
 ## Lessons
 
 1. The days of the week — *Vocabulary — Monday to Sunday*
-2. Have we got Science on Tuesday? — *Grammar 1 — Have we got …? Yes, we have. / No, we haven't.*
-3. What club has she got? — *Grammar 2 — has got, clubs and parts of the day*
-4. My favourite day — *Skills: Listening — Have you got a favourite day of the week? + writing a timetable*
+2. Do we have Science on Tuesday? — *Grammar 1 — Do we have …? Yes, we do. / No, we don't.*
+3. What club does she have? — *Grammar 2 — does / has, clubs and parts of the day*
+4. My favorite day — *Skills: Listening — Do you have a favorite day of the week? + writing a schedule*
 5. Be resourceful — *Story value (be resourceful), Talk time (asking if places are open), Say it! oa / ow*
 6. Night and day animals — *CLIL Science — Which animals are nocturnal?*
-7. Unit 3 revision and quiz — *Revision of Unit 3; quick quiz*
+7. Unit 3 review and quiz — *Review of Unit 3; quick quiz*
 
 ## Vocabulary (English – O'zbekcha)
 
@@ -52,11 +52,11 @@
 
 | | English | O'zbekcha |
 |---|---|---|
-| 🔢 | **Maths** | matematika |
+| 🔢 | **Math** | matematika |
 | 🔤 | **English** | ingliz tili |
 | 🔬 | **Science** | tabiiy fan |
 | 🎨 | **Art** | tasviriy san'at |
 | 🎵 | **Music** | musiqa |
-| 🏃 | **PE** | jismoniy tarbiya |
+| 🏃 | **P.E.** | jismoniy tarbiya |
 | 🏊 | **swimming club** | suzish to'garagi |
 | ♟ | **chess club** | shaxmat to'garagi |

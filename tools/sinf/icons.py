@@ -127,6 +127,14 @@ EMOJI: dict[str, str] = {
     "baby2": "1f476", "old man": "1f474", "old woman": "1f475", "young": "1f9d2",
 }
 
+# American English names for pictures that already exist under their British name, so a content
+# file can use either spelling (the Guess What! pack follows the American edition).
+EMOJI.update({
+    "turtle": EMOJI["tortoise"], "ocean": EMOJI["sea"], "cafeteria": EMOJI["dining hall"],
+    "science lab": EMOJI["science room"], "movies": EMOJI["films"], "ping-pong": EMOJI["table tennis"],
+    "soccer": EMOJI["football"], "fries": EMOJI["chips"], "math": EMOJI["maths"],
+})
+
 
 def codepoint(name: str) -> str | None:
     """Return the Twemoji stem for ``name`` or ``None`` when we have no picture."""
